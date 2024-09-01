@@ -1,0 +1,114 @@
+[11-Feb-2023 14:24:08 America/Chicago] PHP Warning:  Undefined array key "inputedEmail" in /home4/imprtrai/public_html/account/logIn.php on line 44
+[11-Feb-2023 14:24:08 America/Chicago] PHP Warning:  Undefined array key "inputedPassword" in /home4/imprtrai/public_html/account/logIn.php on line 45
+[11-Feb-2023 14:24:08 America/Chicago] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'willeans_postScriptsLibrarian'@'localhost' (using password: YES) in /home4/imprtrai/public_html/account/logIn.php on line 47
+[11-Feb-2023 14:28:33 America/Chicago] PHP Warning:  Undefined array key "inputedEmail" in /home4/imprtrai/public_html/account/logIn.php on line 44
+[11-Feb-2023 14:28:33 America/Chicago] PHP Warning:  Undefined array key "inputedPassword" in /home4/imprtrai/public_html/account/logIn.php on line 45
+[11-Feb-2023 14:28:33 America/Chicago] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'willeans_postScriptsLibrarian'@'localhost' (using password: YES) in /home4/imprtrai/public_html/account/logIn.php on line 47
+[11-Feb-2023 18:35:50 America/Chicago] PHP Warning:  mysqli::__construct(): (HY000/1044): Access denied for user 'imprtrai_Librarian'@'localhost' to database 'imprtrai_Library' in /home4/imprtrai/public_html/account/processCreateAccount.php on line 39
+[11-Feb-2023 18:36:38 America/Chicago] PHP Fatal error:  Uncaught TypeError: mysqli_num_rows(): Argument #1 ($result) must be of type mysqli_result, bool given in /home4/imprtrai/public_html/account/processCreateAccount.php:47
+Stack trace:
+#0 /home4/imprtrai/public_html/account/processCreateAccount.php(47): mysqli_num_rows(false)
+#1 {main}
+  thrown in /home4/imprtrai/public_html/account/processCreateAccount.php on line 47
+[11-Feb-2023 18:37:06 America/Chicago] PHP Fatal error:  Uncaught TypeError: mysqli_num_rows(): Argument #1 ($result) must be of type mysqli_result, bool given in /home4/imprtrai/public_html/account/processCreateAccount.php:47
+Stack trace:
+#0 /home4/imprtrai/public_html/account/processCreateAccount.php(47): mysqli_num_rows(false)
+#1 {main}
+  thrown in /home4/imprtrai/public_html/account/processCreateAccount.php on line 47
+[11-Feb-2023 18:39:45 America/Chicago] PHP Fatal error:  Uncaught TypeError: mysqli_num_rows(): Argument #1 ($result) must be of type mysqli_result, bool given in /home4/imprtrai/public_html/account/processCreateAccount.php:47
+Stack trace:
+#0 /home4/imprtrai/public_html/account/processCreateAccount.php(47): mysqli_num_rows(false)
+#1 {main}
+  thrown in /home4/imprtrai/public_html/account/processCreateAccount.php on line 47
+[11-Feb-2023 18:40:39 America/Chicago] PHP Fatal error:  Uncaught TypeError: mysqli_num_rows(): Argument #1 ($result) must be of type mysqli_result, bool given in /home4/imprtrai/public_html/account/processCreateAccount.php:47
+Stack trace:
+#0 /home4/imprtrai/public_html/account/processCreateAccount.php(47): mysqli_num_rows(false)
+#1 {main}
+  thrown in /home4/imprtrai/public_html/account/processCreateAccount.php on line 47
+[12-Feb-2023 10:31:59 America/Chicago] PHP Warning:  Undefined array key "userName" in /home4/imprtrai/public_html/account/processLogIn.php on line 27
+[12-Feb-2023 10:35:54 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/imprtrai/public_html/account/processCreateAccount.php:5) in /home4/imprtrai/public_html/account/processCreateAccount.php on line 83
+[12-Feb-2023 10:36:24 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/imprtrai/public_html/account/processCreateAccount.php:5) in /home4/imprtrai/public_html/account/processCreateAccount.php on line 78
+[12-Feb-2023 10:38:26 America/Chicago] PHP Warning:  Undefined array key "userName" in /home4/imprtrai/public_html/account/processLogIn.php on line 27
+[12-Feb-2023 12:02:41 America/Chicago] PHP Warning:  Undefined array key "userName" in /home4/imprtrai/public_html/account/processLogIn.php on line 27
+[12-Feb-2023 13:43:09 America/Chicago] PHP Warning:  Undefined array key "userName" in /home4/imprtrai/public_html/account/processLogIn.php on line 27
+[12-Feb-2023 13:44:32 America/Chicago] PHP Warning:  Undefined array key "userName" in /home4/imprtrai/public_html/account/processLogIn.php on line 27
+[13-Feb-2023 14:52:01 America/Chicago] PHP Warning:  Undefined variable $servername in /home4/imprtrai/public_html/account/processForgotPassword.php on line 30
+[13-Feb-2023 14:52:01 America/Chicago] PHP Warning:  Undefined variable $username in /home4/imprtrai/public_html/account/processForgotPassword.php on line 30
+[13-Feb-2023 14:52:01 America/Chicago] PHP Warning:  Undefined variable $password in /home4/imprtrai/public_html/account/processForgotPassword.php on line 30
+[13-Feb-2023 14:52:01 America/Chicago] PHP Warning:  Undefined variable $dbname in /home4/imprtrai/public_html/account/processForgotPassword.php on line 30
+[13-Feb-2023 14:52:01 America/Chicago] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home4/imprtrai/public_html/account/processForgotPassword.php on line 30
+[13-Feb-2023 14:52:56 America/Chicago] PHP Warning:  Undefined variable $servername in /home4/imprtrai/public_html/account/processForgotPassword.php on line 33
+[13-Feb-2023 14:52:56 America/Chicago] PHP Warning:  Undefined variable $username in /home4/imprtrai/public_html/account/processForgotPassword.php on line 33
+[13-Feb-2023 14:52:56 America/Chicago] PHP Warning:  Undefined variable $password in /home4/imprtrai/public_html/account/processForgotPassword.php on line 33
+[13-Feb-2023 14:52:56 America/Chicago] PHP Warning:  Undefined variable $dbname in /home4/imprtrai/public_html/account/processForgotPassword.php on line 33
+[13-Feb-2023 14:52:56 America/Chicago] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home4/imprtrai/public_html/account/processForgotPassword.php on line 33
+[13-Feb-2023 14:53:22 America/Chicago] PHP Warning:  Undefined variable $servername in /home4/imprtrai/public_html/account/processForgotPassword.php on line 33
+[13-Feb-2023 14:53:22 America/Chicago] PHP Warning:  Undefined variable $username in /home4/imprtrai/public_html/account/processForgotPassword.php on line 33
+[13-Feb-2023 14:53:22 America/Chicago] PHP Warning:  Undefined variable $password in /home4/imprtrai/public_html/account/processForgotPassword.php on line 33
+[13-Feb-2023 14:53:22 America/Chicago] PHP Warning:  Undefined variable $dbname in /home4/imprtrai/public_html/account/processForgotPassword.php on line 33
+[13-Feb-2023 14:53:22 America/Chicago] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home4/imprtrai/public_html/account/processForgotPassword.php on line 33
+[13-Feb-2023 14:55:59 America/Chicago] PHP Warning:  Undefined variable $conn in /home4/imprtrai/public_html/account/processForgotPassword.php on line 44
+[13-Feb-2023 14:55:59 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home4/imprtrai/public_html/account/processForgotPassword.php:44
+Stack trace:
+#0 /home4/imprtrai/public_html/account/processForgotPassword.php(59): checkEmail('dan@gmail.com')
+#1 {main}
+  thrown in /home4/imprtrai/public_html/account/processForgotPassword.php on line 44
+[13-Feb-2023 14:56:44 America/Chicago] PHP Warning:  Undefined variable $conn in /home4/imprtrai/public_html/account/processForgotPassword.php on line 44
+[13-Feb-2023 14:56:44 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home4/imprtrai/public_html/account/processForgotPassword.php:44
+Stack trace:
+#0 /home4/imprtrai/public_html/account/processForgotPassword.php(59): checkEmail('dan@gmail.com')
+#1 {main}
+  thrown in /home4/imprtrai/public_html/account/processForgotPassword.php on line 44
+[13-Feb-2023 14:57:48 America/Chicago] PHP Warning:  Undefined variable $conn in /home4/imprtrai/public_html/account/processForgotPassword.php on line 44
+[13-Feb-2023 14:57:48 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home4/imprtrai/public_html/account/processForgotPassword.php:44
+Stack trace:
+#0 /home4/imprtrai/public_html/account/processForgotPassword.php(59): checkEmail('willeujeans@gma...')
+#1 {main}
+  thrown in /home4/imprtrai/public_html/account/processForgotPassword.php on line 44
+[13-Feb-2023 15:01:18 America/Chicago] PHP Fatal error:  Uncaught ArgumentCountError: strtolower() expects exactly 1 argument, 0 given in /home4/imprtrai/public_html/account/processForgotPassword.php:41
+Stack trace:
+#0 /home4/imprtrai/public_html/account/processForgotPassword.php(41): strtolower()
+#1 {main}
+  thrown in /home4/imprtrai/public_html/account/processForgotPassword.php on line 41
+[13-Feb-2023 15:03:25 America/Chicago] PHP Warning:  Undefined variable $email in /home4/imprtrai/public_html/account/processForgotPassword.php on line 32
+[13-Feb-2023 15:03:25 America/Chicago] PHP Warning:  Undefined variable $fastCode in /home4/imprtrai/public_html/account/processForgotPassword.php on line 34
+[13-Feb-2023 15:03:25 America/Chicago] PHP Warning:  Undefined variable $header in /home4/imprtrai/public_html/account/processForgotPassword.php on line 35
+[13-Feb-2023 15:03:25 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function checkEmail() in /home4/imprtrai/public_html/account/processForgotPassword.php:58
+Stack trace:
+#0 {main}
+  thrown in /home4/imprtrai/public_html/account/processForgotPassword.php on line 58
+[13-Feb-2023 15:03:35 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function checkEmail() in /home4/imprtrai/public_html/account/processForgotPassword.php:58
+Stack trace:
+#0 {main}
+  thrown in /home4/imprtrai/public_html/account/processForgotPassword.php on line 58
+[13-Feb-2023 15:04:25 America/Chicago] PHP Warning:  Undefined variable $email in /home4/imprtrai/public_html/account/processForgotPassword.php on line 43
+[13-Feb-2023 15:04:25 America/Chicago] PHP Warning:  Undefined variable $conn in /home4/imprtrai/public_html/account/processForgotPassword.php on line 44
+[13-Feb-2023 15:04:25 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home4/imprtrai/public_html/account/processForgotPassword.php:44
+Stack trace:
+#0 /home4/imprtrai/public_html/account/processForgotPassword.php(61): emailCheck()
+#1 {main}
+  thrown in /home4/imprtrai/public_html/account/processForgotPassword.php on line 44
+[13-Feb-2023 15:05:53 America/Chicago] PHP Warning:  Undefined variable $email in /home4/imprtrai/public_html/account/processForgotPassword.php on line 52
+[13-Feb-2023 15:05:53 America/Chicago] PHP Warning:  Undefined variable $fastCode in /home4/imprtrai/public_html/account/processForgotPassword.php on line 54
+[13-Feb-2023 15:05:53 America/Chicago] PHP Warning:  Undefined variable $header in /home4/imprtrai/public_html/account/processForgotPassword.php on line 55
+[13-Feb-2023 15:06:24 America/Chicago] PHP Warning:  Undefined variable $email in /home4/imprtrai/public_html/account/processForgotPassword.php on line 52
+[13-Feb-2023 15:06:24 America/Chicago] PHP Warning:  Undefined variable $fastCode in /home4/imprtrai/public_html/account/processForgotPassword.php on line 54
+[13-Feb-2023 15:06:24 America/Chicago] PHP Warning:  Undefined variable $header in /home4/imprtrai/public_html/account/processForgotPassword.php on line 55
+[13-Feb-2023 15:08:18 America/Chicago] PHP Warning:  Undefined variable $email in /home4/imprtrai/public_html/account/processForgotPassword.php on line 52
+[13-Feb-2023 15:08:18 America/Chicago] PHP Warning:  Undefined variable $fastCode in /home4/imprtrai/public_html/account/processForgotPassword.php on line 54
+[13-Feb-2023 15:08:18 America/Chicago] PHP Warning:  Undefined variable $header in /home4/imprtrai/public_html/account/processForgotPassword.php on line 55
+[13-Feb-2023 15:08:36 America/Chicago] PHP Warning:  Undefined variable $email in /home4/imprtrai/public_html/account/processForgotPassword.php on line 52
+[13-Feb-2023 15:08:36 America/Chicago] PHP Warning:  Undefined variable $fastCode in /home4/imprtrai/public_html/account/processForgotPassword.php on line 54
+[13-Feb-2023 15:08:36 America/Chicago] PHP Warning:  Undefined variable $header in /home4/imprtrai/public_html/account/processForgotPassword.php on line 55
+[13-Feb-2023 15:08:49 America/Chicago] PHP Warning:  Undefined variable $email in /home4/imprtrai/public_html/account/processForgotPassword.php on line 52
+[13-Feb-2023 15:08:49 America/Chicago] PHP Warning:  Undefined variable $fastCode in /home4/imprtrai/public_html/account/processForgotPassword.php on line 54
+[13-Feb-2023 15:08:49 America/Chicago] PHP Warning:  Undefined variable $header in /home4/imprtrai/public_html/account/processForgotPassword.php on line 55
+[13-Feb-2023 15:09:13 America/Chicago] PHP Warning:  Undefined variable $email in /home4/imprtrai/public_html/account/processForgotPassword.php on line 52
+[13-Feb-2023 15:09:13 America/Chicago] PHP Warning:  Undefined variable $fastCode in /home4/imprtrai/public_html/account/processForgotPassword.php on line 54
+[13-Feb-2023 15:09:13 America/Chicago] PHP Warning:  Undefined variable $header in /home4/imprtrai/public_html/account/processForgotPassword.php on line 55
+[13-Feb-2023 15:09:28 America/Chicago] PHP Warning:  Undefined variable $email in /home4/imprtrai/public_html/account/processForgotPassword.php on line 52
+[13-Feb-2023 15:09:28 America/Chicago] PHP Warning:  Undefined variable $fastCode in /home4/imprtrai/public_html/account/processForgotPassword.php on line 54
+[13-Feb-2023 15:09:28 America/Chicago] PHP Warning:  Undefined variable $header in /home4/imprtrai/public_html/account/processForgotPassword.php on line 55
+[13-Feb-2023 16:59:39 America/Chicago] PHP Warning:  Undefined array key "userName" in /home4/imprtrai/public_html/account/processLogIn.php on line 27
+[15-Feb-2023 14:31:38 America/Chicago] PHP Warning:  Undefined array key "userName" in /home4/imprtrai/public_html/account/processLogIn.php on line 27
+[16-Feb-2023 15:52:27 America/Chicago] PHP Warning:  Undefined array key "userName" in /home4/imprtrai/public_html/account/processLogIn.php on line 27

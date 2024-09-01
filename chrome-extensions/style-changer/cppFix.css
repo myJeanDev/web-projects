@@ -1,0 +1,162 @@
+body{
+    font-family: sans-serif !important;
+    font-weight: 100 !important;
+    background:rgb(50,50,50) !important;
+    color:white !important;
+}
+a{
+    background:rgb(50,50,50) !important;
+    font-family: sans-serif !important;
+    font-weight: 100 !important;
+    color: white !important;
+    padding:0;
+}
+#right-right-component{
+    display:none !important;
+}
+.well{
+    display:none !important;
+}
+.split-pane-divider-inner{
+    display:none !important;
+}
+.split-pane-divider{
+    display:none !important;
+}
+#left-component{
+    background:rgb(50,50,50) !important;
+    color:white !important;
+    border-right:1px solid white !important
+}
+.nav{
+    background:transparent !important;
+}
+#native-inline{
+    display:none !important;
+}
+.glyphicon-menu-left{
+    background:transparent !important;
+    color: white !important;
+}
+.nav-stacked > li{
+    border:0px solid white !important;
+    background: transparent !important;
+    border-radius:5px !important;
+    color:white !important;
+}
+.nav-stacked > li > a{
+    border-radius:5px !important;
+    margin:0 !important;
+}
+.nav-stacked > li:first-child{
+    border:none !important;
+    font-size:2rem;
+    font-weight: bold;
+}
+.nav-stacked{
+    border:none !important;
+} 
+.addthis_inline_share_toolbox{
+    display: none !important;
+}
+#left-component > div{
+    background:rgb(50,50,50) !important;
+}
+#footer{
+    display:none !important;
+}
+.container-fluid{
+    display:none !important;
+}
+h1{
+    display:none !important;
+}
+span.to_be_hidden{
+    display:none !important;
+}
+.to_be_hidden div:first-child{
+    display:none !important;
+}
+#title-bar{
+    background:rgb(50,50,50) !important;
+    margin:0 !important;
+    border:none !important;
+}
+#multi_editor_container{
+    border:none !important;
+    background:rgb(50,50,50) !important;
+}
+button{
+    font-size:1.5rem !important;
+    color:white !important;
+    background:transparent !important;
+    border:none !important;
+}
+select{
+    background:transparent !important;
+    color:white !important;
+}
+#editor-container{
+    padding-top:1px !important;
+    background:rgb(50,50,50) !important;
+}
+.editor_file_tabs{
+    background:rgb(50,50,50) !important;
+}
+#stdin-wrapper{
+    background:rgb(50,50,50) !important;
+}
+.tab-input{
+    background:rgb(50,50,50) !important;
+    border:none !important;
+}
+.glyphicon-chevron-down{
+    color:white !important;
+}
+#cmd_line_args{
+    background:rgb(50,50,50) !important;
+    border:1px solid white;
+    border-radius:5px;
+}
+.nav-justified{
+    border:none !important;
+    padding:0 !important;
+    background:rgb(50,50,50) !important;
+}
+#bottom-component{
+    margin:0 !important;
+    background:rgb(50,50,50) !important;
+}
+.glyphicon-chevron-up{
+    color:white !important;
+}
+
+ul > li.active > a > span{
+    font-weight:800 !important;
+}
+ul > li.active > a{
+    border-bottom: 0px;
+}
+ul > li > a{
+    background:rgba(255,255,255,.1) !important;
+    border-radius:5px !important;
+}
+.glyphicon-option-vertical{
+    transform:rotate(90deg) translateX(-8px) !important;
+}
+#control-btn-run{
+    color: rgb(144, 214, 149) !important;
+}
+#control-btn-save{
+    color: rgb(112, 171, 223) !important;
+}
+#control-btn-stop{
+    color: rgb(223, 95, 95) !important;
+}
+#stderr-wrapper{
+    background:rgb(50,50,50) !important;
+    display:block !important;
+}
+#tab-stderr{
+    background:rgb(50,50,50) !important;
+}

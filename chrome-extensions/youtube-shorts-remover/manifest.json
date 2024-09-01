@@ -1,0 +1,26 @@
+{
+    "manifest_version": 3,
+    "name": "YoutubeFix",
+    "version": "1.0",
+    "description":"Removes shorts, removes videos that are less than 10 minutes, removes thumbnails",
+    "icons":{
+        "128": "icon128.png",
+        "48": "icon48.png",
+        "16": "icon16.png"
+    },
+    "background":{
+        "service_worker":"background.js"
+    },
+    "content_scripts":[
+        {
+            "matches": ["https://www.youtube.com/*"],
+            "js":["content.js"],
+            "css": ["fix.css"]
+        } 
+    ],
+    "host_permissions": [
+        "https://www.youtube.com/*"
+      ],
+      "permissions": ["tabs"]
+}
+

@@ -1,0 +1,22 @@
+{
+    "manifest_version": 3,
+    "name": "DarkBooks",
+    "version": "1.0",
+    "description":"Makes zyBooks dark",
+    "icons":{
+        "128": "icon128.png",
+        "48": "icon48.png",
+        "16": "icon16.png"
+    },
+    "content_scripts":[
+        {
+            "matches": ["https://learn.zybooks.com/*"],
+            "css": ["style.css"]
+        } 
+    ],
+    "host_permissions": [
+        "https://learn.zybooks.com/*"
+      ],
+      "permissions": ["tabs"]
+}
+

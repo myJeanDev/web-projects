@@ -1,0 +1,22 @@
+:root {
+    --c-black: #191919;
+    --c-white: #EBEBEB;
+    --c-red: #D05353;
+    --c-ash: #CAD2C5;
+    --c-green: #84A98C;
+  }
+
+body,html{
+    padding:0;
+    margin:0;
+    color:var(--c-black);
+    font-family:sans-serif;
+    background: var(--c-white);
+}
+h1,h2,h3,h4{
+    font-weight:100;
+    color: var(--c-red);
+}
+h2,h3{
+    font-size: 3rem;
+}

@@ -1,0 +1,36 @@
+[24-Jan-2023 14:22:48 America/Chicago] PHP Warning:  require(/home4/imprtrai/public_html/vendor): Failed to open stream: Success in /home4/imprtrai/public_html/order/commission.php on line 23
+[24-Jan-2023 14:22:48 America/Chicago] PHP Fatal error:  Uncaught Error: Failed opening required '/home4/imprtrai/public_html/vendor' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home4/imprtrai/public_html/order/commission.php:23
+Stack trace:
+#0 {main}
+  thrown in /home4/imprtrai/public_html/order/commission.php on line 23
+[24-Jan-2023 14:24:30 America/Chicago] PHP Warning:  require(/home4/imprtrai/public_html/vendor): Failed to open stream: No such file or directory in /home4/imprtrai/public_html/order/commission.php on line 23
+[24-Jan-2023 14:24:30 America/Chicago] PHP Fatal error:  Uncaught Error: Failed opening required '/home4/imprtrai/public_html/vendor' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home4/imprtrai/public_html/order/commission.php:23
+Stack trace:
+#0 {main}
+  thrown in /home4/imprtrai/public_html/order/commission.php on line 23
+[24-Jan-2023 14:27:22 America/Chicago] PHP Warning:  require(/home4/imprtrai/public_html/vendor): Failed to open stream: Success in /home4/imprtrai/public_html/order/commission.php on line 23
+[24-Jan-2023 14:27:22 America/Chicago] PHP Fatal error:  Uncaught Error: Failed opening required '/home4/imprtrai/public_html/vendor' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home4/imprtrai/public_html/order/commission.php:23
+Stack trace:
+#0 {main}
+  thrown in /home4/imprtrai/public_html/order/commission.php on line 23
+[24-Jan-2023 14:32:45 America/Chicago] PHP Warning:  require(/home4/imprtrai/public_html/vendor): Failed to open stream: No such file or directory in /home4/imprtrai/public_html/order/commission.php on line 23
+[24-Jan-2023 14:32:45 America/Chicago] PHP Fatal error:  Uncaught Error: Failed opening required '/home4/imprtrai/public_html/vendor' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home4/imprtrai/public_html/order/commission.php:23
+Stack trace:
+#0 {main}
+  thrown in /home4/imprtrai/public_html/order/commission.php on line 23
+[24-Jan-2023 14:33:50 America/Chicago] PHP Warning:  require(/home4/imprtrai/public_html/vendor): Failed to open stream: No such file or directory in /home4/imprtrai/public_html/order/commission.php on line 23
+[24-Jan-2023 14:33:50 America/Chicago] PHP Fatal error:  Uncaught Error: Failed opening required '/home4/imprtrai/public_html/vendor' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home4/imprtrai/public_html/order/commission.php:23
+Stack trace:
+#0 {main}
+  thrown in /home4/imprtrai/public_html/order/commission.php on line 23
+[24-Jan-2023 14:37:54 America/Chicago] PHP Warning:  require(/home4/imprtrai/public_html/vendor): Failed to open stream: No such file or directory in /home4/imprtrai/public_html/order/commission.php on line 23
+[24-Jan-2023 14:37:54 America/Chicago] PHP Fatal error:  Uncaught Error: Failed opening required '/home4/imprtrai/public_html/vendor' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home4/imprtrai/public_html/order/commission.php:23
+Stack trace:
+#0 {main}
+  thrown in /home4/imprtrai/public_html/order/commission.php on line 23
+[24-Jan-2023 14:40:36 America/Chicago] PHP Warning:  require(/home4/imprtrai/public_html/vendor): Failed to open stream: No such file or directory in /home4/imprtrai/public_html/order/commission.php on line 23
+[24-Jan-2023 14:40:36 America/Chicago] PHP Fatal error:  Uncaught Error: Failed opening required '/home4/imprtrai/public_html/vendor' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home4/imprtrai/public_html/order/commission.php:23
+Stack trace:
+#0 {main}
+  thrown in /home4/imprtrai/public_html/order/commission.php on line 23
+[12-Feb-2023 11:44:17 America/Chicago] PHP Parse error:  syntax error, unexpected identifier "s", expecting "," or ";" in /home4/imprtrai/public_html/order/order.php on line 43

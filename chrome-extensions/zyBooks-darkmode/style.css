@@ -1,0 +1,32 @@
+pre,a,li,span, p, h1, h2, h3, h4, h5, h6{
+  color:white !important;
+}
+article,nav,textarea,input,ul,li,body, div, header{
+  background:rgb(50,50,50) !important;
+  color:white !important;
+  border-radius:5px !important;
+}
+label, button{
+  background:rgb(50,50,50) !important;
+  color:white !important;
+  border-radius:5px !important;
+  border:1px solid white !important;
+}
+.zylabs{
+  color:rgb(127, 203, 127) !important;
+}
+.challenge{
+  color:rgb(54, 158, 213) !important;
+}
+.participation{
+  color:rgb(228, 135, 59) !important;
+}
+.green{
+  background: rgb(127, 203, 127) !important;
+}
+.orange{
+  background: rgb(228, 135, 59) !important;
+}
+.blue{
+  background: rgb(54, 158, 213) !important;
+}

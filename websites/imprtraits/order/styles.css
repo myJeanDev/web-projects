@@ -1,0 +1,153 @@
+:root {
+  --c-black: #191919;
+  --c-white: #EBEBEB;
+  --c-red: #D05353;
+  --c-ash: #CAD2C5;
+  --c-green: #84A98C;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  background-image: url("canvasTexture.png");
+  background-size: 600px;
+  background-repeat: repeat;
+  font-family: Roboto, sans-serif;
+}
+form {
+  font-family: Roboto, sans-serif;
+}
+h1 {
+  font-size:3rem;
+  color: var(--c-black);
+  font-weight: 100;
+  font-family: Roboto, sans-serif;
+  margin:1rem 0 0 0;
+}
+.price {
+  margin: 1rem 0rem 1rem 0rem;
+  padding: 0;
+  font-size: 2rem;
+  color: var(--c-black);
+  font-family: Roboto, sans-serif;
+  font-weight: 400;
+}
+p {
+  font-weight: 300;
+  margin: 0;
+  padding: 0;
+}
+label{
+  font-weight:100;
+  font-size:1.5rem;
+  margin:1rem 0 0 0;
+}
+.backgroundPage{
+  margin-top:3rem;
+  border:1px solid rgb(37,37,37);
+  padding:1rem;
+  border-radius:5px;
+}
+.bubble{
+  display:flex;
+  flex-direction:column;
+  align-items:center;
+  padding:.5rem 2rem 2rem 2rem;
+  width:90%;
+  border-radius:5px;
+  background: rgba(0,0,0,.2);
+  margin-bottom:.5rem;
+}
+.cont {
+  display: flex;
+  flex-direction: column;
+  align-content: center;
+  align-items: center;
+}
+.background--main {
+  background: var(--c-green);
+  padding-bottom: 24px;
+  border-radius: 5px;
+  margin-top: 20px;
+}
+#userName,#userEmail,#petName {
+  width: 15rem;
+  text-align: center;
+}
+#userName,#userEmail,#petName::placeholder {
+  font-size: 1rem;
+  font-family: Roboto, sans-serif;
+  font-weight: 100;
+  color: var(--c-black);
+}
+#petDescription {
+  font-size: 1rem;
+  height: 10rem;
+  width: 25rem;
+  font-family: Roboto, sans-serif;
+  font-weight: 100;
+  color: var(--c-black);
+}
+#petDescription::placeholder {
+  font-family: Roboto, sans-serif;
+  font-weight: 100;
+  color: var(--c-black);
+}
+.roundedEdges {
+  border-radius: 5px;
+  border-style: none;
+  padding: 5px;
+  border: 1px solid var(--c-black);
+}
+input[type="file"] {
+  display: none;
+}
+#fileDisplay {
+  color: var(--c-white);
+  margin-top: 5px;
+  display: flex;
+  flex-direction: row;
+  text-align: center;
+  line-height: 1.5rem;
+  margin-bottom: 15px;
+}
+.custom-file-upload {
+  margin-top: 20px;
+  border-radius: 5px;
+  display: inline-block;
+  padding: 6px 12px;
+  cursor: pointer;
+  background: var(--c-white);
+}
+#submitButton {
+    cursor:pointer;
+  color:var(--c-white);
+  font-size:1.5rem;
+  margin-top: 2rem;
+  transform: translateY(-25px);
+  background: var(--c-red);
+  border-radius: 5px;
+  opacity: 100%;
+  pointer-events: all;
+  width: 20rem;
+  height: 4rem;
+  transition: all 3s;
+}
+.planBox {
+  cursor: pointer;
+  margin: 5px;
+  width: 180px;
+  height: 100px;
+  background: rgba(255,255,255,.3);
+}
+.planBox:hover {
+  color: var(--c-white);
+  background: var(--c-red);
+}
+#digitalPrice, #printedPrice, #themedPrice {
+  font-size: 2rem;
+  margin-top: 1rem;
+}
+#planDigital, #planPrinted, #planThemed {
+  display: none;
+}

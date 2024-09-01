@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Emoji Puzzle</title>
+    <link rel="icon" type="image/x-icon" href="favicon.ico">
+    <!-- Add your CSS stylesheets here -->
+    <link rel="stylesheet" href="style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Noto+Color+Emoji&family=Noto+Emoji:wght@300..700&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Noto+Emoji:wght@300..700&display=swap" rel="stylesheet">
+
+</head>
+
+<body>
+    <div id="starBackground"></div>
+    <span id="follower"></span>
+    <div class="container">
+        <br>
+        <div class="row">
+            <div class="space" id="playSpace"></div>
+            <div>➡️</div>
+            <div class="space" id="goalSpace"></div>
+        </div>
+        <br>
+        <span id="emojiPool"></span>
+        <textarea type="textarea" value="" id="textToCopy"></textarea>
+        <button id="resetButton">🔄</button>
+        <button id="copyButton" onclick="copyToClipboard()">📑</button>
+        <button id="nightMode">🌕</button>
+    </div>
+
+    <script src="scripts/iconSwitcher.js"></script>
+    <script src="scripts/helperFunctions.js"></script>
+    <script src="scripts/starBackground.js"></script>
+    <script src="scripts/clipboard.js"></script>
+
+    <script src="scripts/emojiLibrary.js"></script>
+    <script src="scripts/boardStateManager.js"></script>
+    <script src="scripts/pool.js"></script>
+    <script src="scripts/user.js"></script>
+    <script src="scripts/visualBoard.js"></script>
+    <script src="scripts/game.js"></script>
+
+    <script src="scripts/main.js"></script>
+
+</body>
+
+</html>

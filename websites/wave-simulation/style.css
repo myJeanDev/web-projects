@@ -1,0 +1,91 @@
+html{
+    height:100%;
+}
+body{
+      font-family:sans-serif;
+      background:black;
+      margin:0;
+      padding:0;
+    display:flex;
+    flex-direction:column;
+    align-items:center;
+    overflow:hidden;
+  }
+  .buttonCont{
+    position:absolute;
+    bottom: 2%;
+    display:flex;
+    flex-direction:column;
+    align-items:center;
+    background:transparent;
+    color:orange;
+  }
+  .list{
+    display:flex;
+    flex-direction:row;
+    align-items:center;
+    width:100%;
+  }
+  .choice{
+    cursor:pointer;
+    padding:.5rem;
+    margin:0 5px 0 5px;
+    background:transparent;
+    border:1px solid orange;
+    border-radius:5px;
+  }
+  #clear{
+    padding-left:0;
+    padding-right:0;
+    margin-left:auto;
+    margin-right:auto;
+    margin-bottom:1rem;
+    width:95%;
+    text-align:center;
+  }
+  .slider {
+    width:250px;
+    -webkit-appearance: none;
+    height: 1px;
+    margin-bottom: 15px;
+    background-color: transparent;
+    border-top:1px solid orange;
+  }
+  
+  .slider::-webkit-slider-thumb {
+    -webkit-appearance: none;
+    width: 18px;
+    height: 18px;
+    border-radius: 10px;
+    background-color: rgb(255, 120, 0);
+    overflow: visible;
+    cursor: pointer;
+  }
+
+  #cont{
+      display:flex;
+      flex-direction: column;
+      margin-left:-25px;
+  }
+  .backrow{
+      flex:1;
+      display:flex;
+      flex-direction:row;
+      margin:0;
+      padding:0;
+      background:transparent;
+      width:100%;
+      margin-Left:0px;
+  }
+  .rowColor1{
+      flex:1;
+      margin:0;
+      padding:0;
+      background:transparent;
+  }
+  .rowColor2{
+      flex:1;
+      margin:0;
+      padding:0;
+      background:orange;
+  }

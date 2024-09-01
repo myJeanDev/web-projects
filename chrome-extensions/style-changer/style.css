@@ -1,0 +1,102 @@
+html,body{
+    background:#e26f50;
+    color:white;
+    font-weight:100;
+    min-width:300px;
+    border-radius:10px;
+}
+.imageBack{
+    background:rgb(255,255,255,.3);
+    border-radius:10px;
+    border:4px solid black;
+    padding:5px;
+}
+h1{
+    color:black;
+    font-size:3rem;
+    text-align: center;
+    margin:0;
+}
+.column{
+    width:100%;
+    display: flex;
+    flex-direction:column;
+    align-items: center;
+}
+.noselect {
+    -webkit-touch-callout: none; /* iOS Safari */
+      -webkit-user-select: none; /* Safari */
+       -khtml-user-select: none; /* Konqueror HTML */
+         -moz-user-select: none; /* Old versions of Firefox */
+          -ms-user-select: none; /* Internet Explorer/Edge */
+              user-select: none; /* Non-prefixed version, currently
+                                    supported by Chrome, Edge, Opera and Firefox */
+}
+.centerBox{
+    width:100%;
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    justify-items: center;
+}
+
+#buttonClicker{
+    margin:1rem;
+    position: relative;
+    cursor:pointer;
+    border-radius:10px;
+    border:none;
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    justify-items: center;
+    width:150px;
+    height:80px;
+    background:transparent;
+}
+.buttonBackground{
+    position: absolute;
+    z-index: 0;
+    width:100%;
+    height:90%;
+    background:black;
+    border-radius:10px;
+}
+  
+  .button_top {
+    z-index: 1;
+    text-align: center;
+    width:80.5%;
+    border:4px solid black;
+    padding:1rem 1rem 1rem 1rem;
+    background:white;
+    border-radius:10px;
+    font-size: 24px;
+    font-weight: bold;
+   -webkit-transform: translateY(-0.5em);
+       -ms-transform: translateY(-0.5em);
+           transform: translateY(-0.5em);
+   -webkit-transition: -webkit-transform 0.1s ease;
+   transition: -webkit-transform 0.1s ease;
+   transition: transform 0.1s ease;
+   transition: transform 0.1s ease, -webkit-transform 0.1s ease;
+  }
+  
+  button:hover .button_top {
+    /* Pull the button upwards when hovered */
+   -webkit-transform: translateY(-0.7em);
+       -ms-transform: translateY(-0.7em);
+           transform: translateY(-0.7em);
+  }
+  
+  button:active .button_top {
+    /* Push the button downwards when pressed */
+   -webkit-transform: translateY(-0.1em);
+       -ms-transform: translateY(-0.1em);
+           transform: translateY(-0.1em);
+           box-shadow: inset 0 0 10px rgba(0,0,0,.5);
+  }
+
+  

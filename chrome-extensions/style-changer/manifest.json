@@ -1,0 +1,25 @@
+{
+    "manifest_version": 3,
+    "name": "onlinegdb Enhancer",
+    "version": "1.0",
+    "description":"Fixes onlinegdb.coms horrible CSS design",
+    "icons":{
+        "128": "icon128.png",
+        "48": "icon48.png",
+        "16": "icon16.png"
+    },
+    "background":{
+        "service_worker":"background.js"
+    },
+    "content_scripts":[
+        {
+            "matches": ["https://www.onlinegdb.com/edit/*"],
+            "js":["content.js"],
+            "css": ["cppFix.css"]
+        } 
+    ],
+    "host_permissions": [
+        "https://www.onlinegdb.com/*"
+      ],
+      "permissions": ["tabs"]
+}

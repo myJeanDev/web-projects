@@ -1,0 +1,212 @@
+:root {
+    --c-black: #191919;
+    --c-white: #EBEBEB;
+    --c-red: #D05353;
+    --c-ash: #CAD2C5;
+    --c-green: #84A98C;
+  }
+
+body,html{
+    padding:0;
+    margin:0;
+    color:var(--c-black);
+    font-family:sans-serif;
+    background: var(--c-white);
+}
+h1,h2,h3,h4{
+    font-weight:100;
+    color: var(--c-red);
+}
+h2,h3{
+    font-size: 3rem;
+}
+.breaker{
+    width:100%;
+    margin:.2rem 0 1rem 0;
+    height:3px;
+    opacity:25%;
+    border-style:none;
+    background:var(--c-red);
+}
+.rowCont{
+    display:flex;
+    flex-direction:row;
+    align-items:center;
+    justify-content: center;
+}
+.columnCont{
+    display:flex;
+    flex-direction:column;
+    align-items:center;
+    justify-content: center;
+}
+
+.webSiteTitle{
+    position:absolute;
+    left:1rem;
+    top:1rem;
+    margin:0;
+    padding:0;
+}
+#navHeader{
+    z-index:100;
+    position:fixed;
+    width:100%;
+    height:80px;
+    background:var(--c-green);
+}
+#navBar{
+    position:absolute;
+    right:5%;
+    top:50%;
+    transform: translateY(-50%);
+    display:flex;
+    flex-direction:row;
+    gap:2rem;
+}
+.navLink{
+    font-size:2rem;
+    text-decoration: none;
+    color: var(--c-white);
+}
+.buffer{
+    height:80px;
+}
+
+#cover{
+    gap:32px;
+    border-bottom:3px solid rgba(132, 169, 140,.5);
+}
+.coverPhoto{
+    height:400px;
+    width:400px;
+}
+#about{
+    margin-top:3rem;
+}
+.circularImage{
+    border-radius:100%;
+}
+.sizeImage{
+    height:200px;
+    width:200px;
+}
+.galleryTitle, .aboutTitle{
+    margin:0 0 0 0;
+}
+.info{
+    font-size:1.3rem;
+    opacity:70%;
+    margin:0;
+}
+.paragraph{
+    font-size:1.3rem;
+    font-weight:100;
+    width:50rem;
+    text-align: center;
+}
+.petSquare{
+    border-radius:5px;
+    display:flex;
+    flex-direction:column;
+    align-items:center;
+}
+.petTitle{
+    font-size:2rem;
+    margin:0;
+}
+.petInfo{
+    max-width:300px;
+    text-align: center;
+    font-size:.95rem;
+    opacity:70%;
+    margin:0;
+}
+.petGalleryImage{
+    width:300px;
+    height:300px;
+}
+#gallery{
+    margin-top:6rem;
+}
+#galleryGrid{
+    display: grid;
+    grid-template-columns: 300px 300px 300px;
+    grid-gap: 0px;
+    margin-top:3rem;
+}
+.contactMe{
+    text-decoration: none;
+    background: var(--c-red);
+    color:var(--c-white);
+    padding:1.5rem 2rem 1.5rem 2rem;
+    border-radius:5px;
+}
+.columnBox{
+    width:100%;
+    height:100%;
+    display:flex;
+    flex-direction:column;
+    align-items:center;
+}
+.alignText{
+    text-align: center;
+}
+#plans{
+    margin-top:6rem;
+}
+.planBox{
+    position:relative;
+    width:300px;
+    height:400px;
+    padding:1rem;
+    background:var(--c-ash);
+    border-radius:5px;
+    border:1px solid var(--c-green);
+  }
+.planTitle{
+    color:var(--c-black);
+    margin:0;
+    padding:0;
+}
+.gap10{
+    gap:10px;
+}
+.benefits{
+    color:var(--c-black);
+    margin:.3rem 0 .3rem 0;
+    padding:0;
+}
+.price{
+    position:absolute;
+    bottom:5%;
+    margin:0;
+    font-size:2rem;
+    border-radius:5px;
+    color:var(--c-white);
+    background: var(--c-red);
+    padding:1rem 1.5rem 1rem 1.5rem;
+}
+#footer{
+    margin-top:5rem;
+    display:flex;
+    flex-direction:column;
+    align-items:center;
+    width:100%;
+    padding:5px 0rem 5px 0rem;
+    border-top:1px solid rgb(255,178,0);
+    background:rgba(255,178,0,.1);
+}
+#lastUpdated{
+    margin:0;
+    font-size:.9rem;
+    color:rgb(255,178,0);
+}
+#creatorSignature{
+    margin:0;
+    color:var(--c-black);
+}
+#creatorSignatureContact{
+    margin:0;
+    color:var(--c-black);
+}
