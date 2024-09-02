@@ -1,0 +1,1021 @@
+[27-Feb-2023 13:16:46 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'CXAVRD5ybMTGYctWJezKBF4fZceVhlHz' in 'field list' in /home4/willeans/public_html/dotDisplay/gridPhp/addLike.php:15
+Stack trace:
+#0 /home4/willeans/public_html/dotDisplay/gridPhp/addLike.php(15): mysqli->query('INSERT INTO lik...')
+#1 {main}
+  thrown in /home4/willeans/public_html/dotDisplay/gridPhp/addLike.php on line 15
+[27-Feb-2023 13:31:42 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_num_rows() in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php:17
+Stack trace:
+#0 {main}
+  thrown in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 17
+[27-Feb-2023 13:31:42 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_num_rows() in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php:17
+Stack trace:
+#0 {main}
+  thrown in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 17
+[27-Feb-2023 13:31:42 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_num_rows() in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php:17
+Stack trace:
+#0 {main}
+  thrown in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 17
+[27-Feb-2023 13:31:42 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_num_rows() in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php:17
+Stack trace:
+#0 {main}
+  thrown in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 17
+[27-Feb-2023 13:31:42 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_num_rows() in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php:17
+Stack trace:
+#0 {main}
+  thrown in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 17
+[27-Feb-2023 13:31:42 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_num_rows() in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php:17
+Stack trace:
+#0 {main}
+  thrown in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 17
+[27-Feb-2023 13:32:02 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_num_rows() in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php:17
+Stack trace:
+#0 {main}
+  thrown in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 17
+[27-Feb-2023 13:32:02 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_num_rows() in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php:17
+Stack trace:
+#0 {main}
+  thrown in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 17
+[27-Feb-2023 13:32:02 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_num_rows() in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php:17
+Stack trace:
+#0 {main}
+  thrown in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 17
+[27-Feb-2023 13:32:02 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_num_rows() in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php:17
+Stack trace:
+#0 {main}
+  thrown in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 17
+[27-Feb-2023 13:32:02 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_num_rows() in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php:17
+Stack trace:
+#0 {main}
+  thrown in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 17
+[27-Feb-2023 13:32:02 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_num_rows() in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php:17
+Stack trace:
+#0 {main}
+  thrown in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 17
+[27-Feb-2023 14:00:03 America/Chicago] PHP Warning:  Undefined array key "code" in /home4/willeans/public_html/dotDisplay/gridPhp/removeLike.php on line 12
+[27-Feb-2023 14:00:04 America/Chicago] PHP Warning:  Undefined array key "code" in /home4/willeans/public_html/dotDisplay/gridPhp/addLike.php on line 12
+[27-Feb-2023 14:00:05 America/Chicago] PHP Warning:  Undefined array key "code" in /home4/willeans/public_html/dotDisplay/gridPhp/removeLike.php on line 12
+[27-Feb-2023 17:28:57 America/Chicago] PHP Warning:  Undefined variable $_Post in /home4/willeans/public_html/dotDisplay/gridPhp/setProfilePicture.php on line 13
+[27-Feb-2023 17:28:57 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home4/willeans/public_html/dotDisplay/gridPhp/setProfilePicture.php on line 13
+[27-Feb-2023 17:28:57 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE userId = 'aa4RnN2EX6XrxiCD1JAV4rIU8LQ0QqJg7ZukCU8s8xvMbe8F7Rb9jhme9bhX9afE' at line 3 in /home4/willeans/public_html/dotDisplay/gridPhp/setProfilePicture.php:18
+Stack trace:
+#0 /home4/willeans/public_html/dotDisplay/gridPhp/setProfilePicture.php(18): mysqli->query('UPDATE Users\nSE...')
+#1 {main}
+  thrown in /home4/willeans/public_html/dotDisplay/gridPhp/setProfilePicture.php on line 18
+[27-Feb-2023 17:31:14 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: Too many connections in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php:9
+Stack trace:
+#0 /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php(9): mysqli->__construct('localhost', 'willeans_dotDis...', 'Kf@LUhD!XSP=', 'willeans_dotDis...')
+#1 {main}
+  thrown in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 9
+[27-Feb-2023 17:31:14 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: Too many connections in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php:9
+Stack trace:
+#0 /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php(9): mysqli->__construct('localhost', 'willeans_dotDis...', 'Kf@LUhD!XSP=', 'willeans_dotDis...')
+#1 {main}
+  thrown in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 9
+[27-Feb-2023 17:31:14 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: Too many connections in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php:9
+Stack trace:
+#0 /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php(9): mysqli->__construct('localhost', 'willeans_dotDis...', 'Kf@LUhD!XSP=', 'willeans_dotDis...')
+#1 {main}
+  thrown in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 9
+[27-Feb-2023 17:31:34 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: Too many connections in /home4/willeans/public_html/dotDisplay/gridPhp/setProfilePicture.php:8
+Stack trace:
+#0 /home4/willeans/public_html/dotDisplay/gridPhp/setProfilePicture.php(8): mysqli->__construct('localhost', 'willeans_dotDis...', 'Kf@LUhD!XSP=', 'willeans_dotDis...')
+#1 {main}
+  thrown in /home4/willeans/public_html/dotDisplay/gridPhp/setProfilePicture.php on line 8
+[27-Feb-2023 17:33:25 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE userId = 'aa4RnN2EX6XrxiCD1JAV4rIU8LQ0QqJg7ZukCU8s8xvMbe8F7Rb9jhme9bhX9afE' at line 3 in /home4/willeans/public_html/dotDisplay/gridPhp/setProfilePicture.php:20
+Stack trace:
+#0 /home4/willeans/public_html/dotDisplay/gridPhp/setProfilePicture.php(20): mysqli->query('UPDATE Users\nSE...')
+#1 {main}
+  thrown in /home4/willeans/public_html/dotDisplay/gridPhp/setProfilePicture.php on line 20
+[28-Feb-2023 11:25:10 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'profilePicture' in 'field list' in /home4/willeans/public_html/dotDisplay/gridPhp/pullProfilePicture.php:16
+Stack trace:
+#0 /home4/willeans/public_html/dotDisplay/gridPhp/pullProfilePicture.php(16): mysqli->query('SELECT profileP...')
+#1 {main}
+  thrown in /home4/willeans/public_html/dotDisplay/gridPhp/pullProfilePicture.php on line 16
+[28-Feb-2023 17:05:54 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[28-Feb-2023 17:05:55 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[28-Feb-2023 17:05:55 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[28-Feb-2023 17:05:55 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[28-Feb-2023 17:05:55 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[28-Feb-2023 17:05:55 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[28-Feb-2023 17:05:55 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[28-Feb-2023 17:05:55 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[28-Feb-2023 17:05:55 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[28-Feb-2023 17:05:55 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[28-Feb-2023 17:05:55 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[28-Feb-2023 17:05:55 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[28-Feb-2023 17:10:39 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[28-Feb-2023 17:10:39 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[28-Feb-2023 17:10:39 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[28-Feb-2023 17:10:39 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[28-Feb-2023 17:10:39 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[28-Feb-2023 17:10:39 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[28-Feb-2023 17:10:39 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[28-Feb-2023 17:10:39 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[28-Feb-2023 17:10:39 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[28-Feb-2023 17:10:39 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[28-Feb-2023 17:10:39 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[28-Feb-2023 17:10:39 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[28-Feb-2023 17:58:48 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[28-Feb-2023 17:58:48 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[28-Feb-2023 17:58:48 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[28-Feb-2023 17:58:48 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[28-Feb-2023 17:58:48 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[28-Feb-2023 17:58:48 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[28-Feb-2023 17:58:48 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[28-Feb-2023 17:58:48 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[28-Feb-2023 17:58:48 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[28-Feb-2023 17:58:48 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[28-Feb-2023 17:58:48 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[28-Feb-2023 17:58:48 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[28-Feb-2023 18:11:40 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[28-Feb-2023 18:11:40 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[28-Feb-2023 18:11:40 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[28-Feb-2023 18:11:40 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[28-Feb-2023 18:11:40 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[28-Feb-2023 18:11:40 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[28-Feb-2023 18:11:40 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[28-Feb-2023 18:11:40 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[28-Feb-2023 18:11:40 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[28-Feb-2023 18:11:40 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[28-Feb-2023 18:11:40 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[28-Feb-2023 18:11:40 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[28-Feb-2023 18:12:48 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[28-Feb-2023 18:12:49 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[28-Feb-2023 18:12:49 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[28-Feb-2023 18:12:49 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[28-Feb-2023 18:12:49 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[28-Feb-2023 18:12:49 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[28-Feb-2023 18:12:49 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[28-Feb-2023 18:12:49 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[28-Feb-2023 18:12:49 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[28-Feb-2023 18:12:49 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[28-Feb-2023 18:12:49 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[28-Feb-2023 18:12:49 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[28-Feb-2023 18:19:43 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[28-Feb-2023 18:19:43 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[28-Feb-2023 18:19:43 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[28-Feb-2023 18:19:43 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[28-Feb-2023 18:19:43 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[28-Feb-2023 18:19:43 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[28-Feb-2023 18:19:43 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[28-Feb-2023 18:19:43 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[28-Feb-2023 18:19:43 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[28-Feb-2023 18:19:43 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[28-Feb-2023 18:19:43 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[28-Feb-2023 18:19:43 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[28-Feb-2023 18:19:45 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[28-Feb-2023 18:19:45 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[28-Feb-2023 18:19:45 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[28-Feb-2023 18:19:45 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[28-Feb-2023 18:19:45 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[28-Feb-2023 18:19:45 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[28-Feb-2023 18:19:45 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[28-Feb-2023 18:19:45 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[28-Feb-2023 18:19:45 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[28-Feb-2023 18:19:45 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[28-Feb-2023 18:19:45 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[28-Feb-2023 18:19:45 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[28-Feb-2023 18:20:16 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[28-Feb-2023 18:20:16 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[28-Feb-2023 18:20:16 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[28-Feb-2023 18:20:16 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[28-Feb-2023 18:20:16 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[28-Feb-2023 18:20:16 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[28-Feb-2023 18:20:16 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[28-Feb-2023 18:20:16 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[28-Feb-2023 18:20:16 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[28-Feb-2023 18:20:16 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[28-Feb-2023 18:20:16 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[28-Feb-2023 18:20:16 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[28-Feb-2023 18:20:25 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[28-Feb-2023 18:20:25 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[28-Feb-2023 18:20:25 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[28-Feb-2023 18:20:25 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[28-Feb-2023 18:20:25 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[28-Feb-2023 18:20:25 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[28-Feb-2023 18:20:25 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[28-Feb-2023 18:20:25 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[28-Feb-2023 18:20:25 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[28-Feb-2023 18:20:25 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[28-Feb-2023 18:20:25 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[28-Feb-2023 18:20:25 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[01-Mar-2023 00:18:14 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[01-Mar-2023 00:18:14 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[01-Mar-2023 00:18:14 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[01-Mar-2023 00:18:14 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[01-Mar-2023 00:18:14 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[01-Mar-2023 00:18:14 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[01-Mar-2023 00:18:14 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[01-Mar-2023 00:18:14 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[01-Mar-2023 00:18:14 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[01-Mar-2023 00:18:14 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[01-Mar-2023 00:18:14 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[01-Mar-2023 00:18:14 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[01-Mar-2023 00:19:19 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[01-Mar-2023 00:19:19 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[01-Mar-2023 00:19:19 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[01-Mar-2023 00:19:19 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[01-Mar-2023 00:19:19 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[01-Mar-2023 00:19:19 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[01-Mar-2023 00:19:19 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[01-Mar-2023 00:19:19 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[01-Mar-2023 00:19:19 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[01-Mar-2023 00:19:19 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[01-Mar-2023 00:19:19 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[01-Mar-2023 00:19:19 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[01-Mar-2023 14:26:56 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: Too many connections in /home4/willeans/public_html/dotDisplay/gridPhp/pullDots.php:9
+Stack trace:
+#0 /home4/willeans/public_html/dotDisplay/gridPhp/pullDots.php(9): mysqli->__construct('localhost', 'willeans_dotDis...', 'Kf@LUhD!XSP=', 'willeans_dotDis...')
+#1 {main}
+  thrown in /home4/willeans/public_html/dotDisplay/gridPhp/pullDots.php on line 9
+[01-Mar-2023 15:02:12 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[01-Mar-2023 15:02:12 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[01-Mar-2023 15:02:12 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[01-Mar-2023 15:02:12 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[01-Mar-2023 15:02:12 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[01-Mar-2023 15:02:12 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[01-Mar-2023 15:02:12 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[01-Mar-2023 15:02:12 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[01-Mar-2023 15:02:12 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[01-Mar-2023 15:02:12 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[01-Mar-2023 15:02:12 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[01-Mar-2023 15:02:12 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[01-Mar-2023 15:47:08 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[01-Mar-2023 15:47:08 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[01-Mar-2023 15:47:08 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[01-Mar-2023 15:47:08 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[01-Mar-2023 15:47:08 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[01-Mar-2023 15:47:08 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[01-Mar-2023 15:47:08 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[01-Mar-2023 15:47:08 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[01-Mar-2023 15:47:08 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[01-Mar-2023 15:47:08 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[01-Mar-2023 15:47:08 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[01-Mar-2023 15:47:08 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[01-Mar-2023 15:47:08 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[01-Mar-2023 17:48:47 America/Chicago] PHP Warning:  Undefined variable $map in /home4/willeans/public_html/dotDisplay/gridPhp/pullProfilePicture.php on line 31
+[02-Mar-2023 01:43:13 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[02-Mar-2023 01:43:13 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[02-Mar-2023 01:43:13 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[02-Mar-2023 01:43:13 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[02-Mar-2023 01:43:13 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[02-Mar-2023 01:43:13 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[02-Mar-2023 01:43:13 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[02-Mar-2023 01:43:13 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[02-Mar-2023 01:43:13 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[02-Mar-2023 01:43:13 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[02-Mar-2023 01:43:13 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[02-Mar-2023 01:43:13 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[02-Mar-2023 01:43:13 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[02-Mar-2023 01:43:13 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[02-Mar-2023 11:19:16 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: Too many connections in /home4/willeans/public_html/dotDisplay/gridPhp/pullProfilePicture.php:9
+Stack trace:
+#0 /home4/willeans/public_html/dotDisplay/gridPhp/pullProfilePicture.php(9): mysqli->__construct('localhost', 'willeans_dotDis...', 'Kf@LUhD!XSP=', 'willeans_dotDis...')
+#1 {main}
+  thrown in /home4/willeans/public_html/dotDisplay/gridPhp/pullProfilePicture.php on line 9
+[02-Mar-2023 11:19:16 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: Too many connections in /home4/willeans/public_html/dotDisplay/gridPhp/pullUserDots.php:9
+Stack trace:
+#0 /home4/willeans/public_html/dotDisplay/gridPhp/pullUserDots.php(9): mysqli->__construct('localhost', 'willeans_dotDis...', 'Kf@LUhD!XSP=', 'willeans_dotDis...')
+#1 {main}
+  thrown in /home4/willeans/public_html/dotDisplay/gridPhp/pullUserDots.php on line 9
+[02-Mar-2023 11:19:38 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: Too many connections in /home4/willeans/public_html/dotDisplay/gridPhp/pullCanvasDots.php:9
+Stack trace:
+#0 /home4/willeans/public_html/dotDisplay/gridPhp/pullCanvasDots.php(9): mysqli->__construct('localhost', 'willeans_dotDis...', 'Kf@LUhD!XSP=', 'willeans_dotDis...')
+#1 {main}
+  thrown in /home4/willeans/public_html/dotDisplay/gridPhp/pullCanvasDots.php on line 9
+[02-Mar-2023 11:21:11 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: Too many connections in /home4/willeans/public_html/dotDisplay/gridPhp/pullDots.php:9
+Stack trace:
+#0 /home4/willeans/public_html/dotDisplay/gridPhp/pullDots.php(9): mysqli->__construct('localhost', 'willeans_dotDis...', 'Kf@LUhD!XSP=', 'willeans_dotDis...')
+#1 {main}
+  thrown in /home4/willeans/public_html/dotDisplay/gridPhp/pullDots.php on line 9
+[02-Mar-2023 11:21:18 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: Too many connections in /home4/willeans/public_html/dotDisplay/gridPhp/pullDots.php:9
+Stack trace:
+#0 /home4/willeans/public_html/dotDisplay/gridPhp/pullDots.php(9): mysqli->__construct('localhost', 'willeans_dotDis...', 'Kf@LUhD!XSP=', 'willeans_dotDis...')
+#1 {main}
+  thrown in /home4/willeans/public_html/dotDisplay/gridPhp/pullDots.php on line 9
+[02-Mar-2023 11:24:25 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: Too many connections in /home4/willeans/public_html/dotDisplay/gridPhp/pullDots.php:9
+Stack trace:
+#0 /home4/willeans/public_html/dotDisplay/gridPhp/pullDots.php(9): mysqli->__construct('localhost', 'willeans_dotDis...', 'Kf@LUhD!XSP=', 'willeans_dotDis...')
+#1 {main}
+  thrown in /home4/willeans/public_html/dotDisplay/gridPhp/pullDots.php on line 9
+[02-Mar-2023 11:25:13 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: Too many connections in /home4/willeans/public_html/dotDisplay/gridPhp/pullDots.php:9
+Stack trace:
+#0 /home4/willeans/public_html/dotDisplay/gridPhp/pullDots.php(9): mysqli->__construct('localhost', 'willeans_dotDis...', 'Kf@LUhD!XSP=', 'willeans_dotDis...')
+#1 {main}
+  thrown in /home4/willeans/public_html/dotDisplay/gridPhp/pullDots.php on line 9
+[02-Mar-2023 17:46:36 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[02-Mar-2023 17:46:36 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[02-Mar-2023 17:46:36 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[02-Mar-2023 17:46:36 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[02-Mar-2023 17:46:36 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[02-Mar-2023 17:46:36 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[02-Mar-2023 17:46:36 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[02-Mar-2023 17:46:36 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[02-Mar-2023 17:46:36 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[02-Mar-2023 17:46:36 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[02-Mar-2023 17:46:36 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[02-Mar-2023 17:46:36 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[02-Mar-2023 17:46:36 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[02-Mar-2023 17:46:36 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[02-Mar-2023 17:46:36 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[02-Mar-2023 17:47:58 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/addLike.php on line 11
+[02-Mar-2023 17:47:59 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/addLike.php on line 11
+[02-Mar-2023 17:48:00 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/addLike.php on line 11
+[02-Mar-2023 17:48:02 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[02-Mar-2023 17:48:02 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[02-Mar-2023 17:48:02 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[02-Mar-2023 17:48:02 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[02-Mar-2023 17:48:02 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[02-Mar-2023 17:48:02 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[02-Mar-2023 17:48:02 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[02-Mar-2023 17:48:02 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[02-Mar-2023 17:48:02 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[02-Mar-2023 17:48:02 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[02-Mar-2023 17:48:02 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[02-Mar-2023 17:48:02 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[02-Mar-2023 17:48:02 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[02-Mar-2023 17:48:02 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[02-Mar-2023 17:48:02 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[02-Mar-2023 22:56:07 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[02-Mar-2023 22:56:07 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[02-Mar-2023 22:56:07 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[02-Mar-2023 22:56:07 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[02-Mar-2023 22:56:07 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[02-Mar-2023 22:56:07 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[02-Mar-2023 22:56:07 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[02-Mar-2023 22:56:07 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[02-Mar-2023 22:56:07 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[02-Mar-2023 22:56:07 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[02-Mar-2023 22:56:07 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[02-Mar-2023 22:56:07 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[02-Mar-2023 22:56:07 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[02-Mar-2023 22:56:07 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[02-Mar-2023 22:56:07 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[02-Mar-2023 22:56:07 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[03-Mar-2023 20:26:42 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[03-Mar-2023 20:26:42 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[03-Mar-2023 20:26:42 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[03-Mar-2023 20:26:42 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[03-Mar-2023 20:26:42 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[03-Mar-2023 20:26:42 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[03-Mar-2023 20:26:42 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[03-Mar-2023 20:26:42 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[03-Mar-2023 20:26:42 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[03-Mar-2023 20:26:42 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[03-Mar-2023 20:26:42 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[03-Mar-2023 20:26:42 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[03-Mar-2023 20:26:42 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[03-Mar-2023 20:26:42 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[03-Mar-2023 20:26:42 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[03-Mar-2023 20:26:42 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[03-Mar-2023 20:26:42 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[03-Mar-2023 23:30:33 America/Chicago] PHP Warning:  Undefined variable $map in /home4/willeans/public_html/dotDisplay/gridPhp/pullProfilePicture.php on line 31
+[03-Mar-2023 23:30:44 America/Chicago] PHP Warning:  Undefined variable $map in /home4/willeans/public_html/dotDisplay/gridPhp/pullProfilePicture.php on line 31
+[04-Mar-2023 00:00:24 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[04-Mar-2023 00:00:24 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[04-Mar-2023 00:00:24 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[04-Mar-2023 00:00:24 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[04-Mar-2023 00:00:24 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[04-Mar-2023 00:00:24 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[04-Mar-2023 00:00:24 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[04-Mar-2023 00:00:24 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[04-Mar-2023 00:00:24 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[04-Mar-2023 00:00:24 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[04-Mar-2023 00:00:24 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[04-Mar-2023 00:00:24 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[04-Mar-2023 00:00:24 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[04-Mar-2023 00:00:24 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[04-Mar-2023 00:00:24 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[04-Mar-2023 00:00:24 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[04-Mar-2023 00:00:24 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[04-Mar-2023 00:46:41 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[04-Mar-2023 00:46:41 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[04-Mar-2023 00:46:41 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[04-Mar-2023 00:46:41 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[04-Mar-2023 00:46:42 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[04-Mar-2023 00:46:42 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[04-Mar-2023 00:46:42 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[04-Mar-2023 00:46:42 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[04-Mar-2023 00:46:42 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[04-Mar-2023 00:46:42 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[04-Mar-2023 00:46:42 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[04-Mar-2023 00:46:42 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[04-Mar-2023 00:46:42 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[04-Mar-2023 00:46:42 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[04-Mar-2023 00:46:42 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[04-Mar-2023 00:46:42 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[04-Mar-2023 00:46:42 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[04-Mar-2023 01:01:36 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[04-Mar-2023 01:01:36 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[04-Mar-2023 01:01:36 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[04-Mar-2023 01:01:36 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[04-Mar-2023 01:01:36 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[04-Mar-2023 01:01:36 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[04-Mar-2023 01:01:36 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[04-Mar-2023 01:01:36 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[04-Mar-2023 01:01:36 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[04-Mar-2023 01:01:36 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[04-Mar-2023 01:01:36 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[04-Mar-2023 01:01:36 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[04-Mar-2023 01:01:36 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[04-Mar-2023 01:01:36 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[04-Mar-2023 01:01:36 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[04-Mar-2023 01:01:36 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[04-Mar-2023 01:01:36 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[04-Mar-2023 01:01:40 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/addLike.php on line 11
+[04-Mar-2023 01:01:42 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/removeLike.php on line 11
+[04-Mar-2023 01:01:42 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/removeLike.php on line 11
+[04-Mar-2023 13:02:26 America/Chicago] PHP Warning:  Undefined variable $map in /home4/willeans/public_html/dotDisplay/gridPhp/pullProfilePicture.php on line 31
+[04-Mar-2023 13:45:18 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[04-Mar-2023 13:45:18 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[04-Mar-2023 13:45:18 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[04-Mar-2023 13:45:18 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[04-Mar-2023 13:45:18 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[04-Mar-2023 13:45:18 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[04-Mar-2023 13:45:18 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[04-Mar-2023 13:45:18 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[04-Mar-2023 13:45:18 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[04-Mar-2023 13:45:18 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[04-Mar-2023 13:45:18 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[04-Mar-2023 13:45:18 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[04-Mar-2023 13:45:18 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[04-Mar-2023 13:45:18 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[04-Mar-2023 13:45:18 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[04-Mar-2023 13:45:18 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[04-Mar-2023 13:45:18 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[04-Mar-2023 16:23:50 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[04-Mar-2023 16:23:50 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[04-Mar-2023 16:23:50 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[04-Mar-2023 16:23:50 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[04-Mar-2023 16:23:50 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[04-Mar-2023 16:23:50 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[04-Mar-2023 16:23:50 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[04-Mar-2023 16:23:50 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[04-Mar-2023 16:23:50 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[04-Mar-2023 16:23:50 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[04-Mar-2023 16:23:50 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[04-Mar-2023 16:23:50 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[04-Mar-2023 16:23:50 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[04-Mar-2023 16:23:50 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[04-Mar-2023 16:23:50 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[04-Mar-2023 16:23:50 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[04-Mar-2023 16:23:50 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[05-Mar-2023 00:00:47 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[05-Mar-2023 00:00:47 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[05-Mar-2023 00:00:47 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[05-Mar-2023 00:00:47 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[05-Mar-2023 00:00:47 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[05-Mar-2023 00:00:47 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[05-Mar-2023 00:00:47 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[05-Mar-2023 00:00:47 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[05-Mar-2023 00:00:47 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[05-Mar-2023 00:00:47 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[05-Mar-2023 00:00:47 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[05-Mar-2023 00:00:47 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[05-Mar-2023 00:00:47 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[05-Mar-2023 00:00:47 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[05-Mar-2023 00:00:47 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[05-Mar-2023 00:00:47 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[05-Mar-2023 00:00:47 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[05-Mar-2023 00:00:52 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[05-Mar-2023 00:00:52 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[05-Mar-2023 00:00:52 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[05-Mar-2023 00:00:52 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[05-Mar-2023 00:00:52 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[05-Mar-2023 00:00:52 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[05-Mar-2023 00:00:52 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[05-Mar-2023 00:00:52 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[05-Mar-2023 00:00:52 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[05-Mar-2023 00:00:52 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[05-Mar-2023 00:00:52 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[05-Mar-2023 00:00:52 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[05-Mar-2023 00:00:52 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[05-Mar-2023 00:00:52 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[05-Mar-2023 00:00:52 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[05-Mar-2023 00:00:52 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[05-Mar-2023 00:00:52 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[05-Mar-2023 00:00:56 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[05-Mar-2023 00:00:56 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[05-Mar-2023 00:00:56 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[05-Mar-2023 00:00:56 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[05-Mar-2023 00:00:56 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[05-Mar-2023 00:00:56 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[05-Mar-2023 00:00:56 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[05-Mar-2023 00:00:56 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[05-Mar-2023 00:00:56 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[05-Mar-2023 00:00:56 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[05-Mar-2023 00:00:56 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[05-Mar-2023 00:00:56 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[05-Mar-2023 00:00:56 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[05-Mar-2023 00:00:56 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[05-Mar-2023 00:00:56 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[05-Mar-2023 00:00:56 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[05-Mar-2023 00:00:56 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[05-Mar-2023 00:08:01 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[05-Mar-2023 00:08:01 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[05-Mar-2023 00:08:01 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[05-Mar-2023 00:08:01 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[05-Mar-2023 00:08:01 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[05-Mar-2023 00:08:01 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[05-Mar-2023 00:08:01 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[05-Mar-2023 00:08:01 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[05-Mar-2023 00:08:01 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[05-Mar-2023 00:08:01 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[05-Mar-2023 00:08:01 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[05-Mar-2023 00:08:01 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[05-Mar-2023 00:08:01 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[05-Mar-2023 00:08:01 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[05-Mar-2023 00:08:01 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[05-Mar-2023 00:08:01 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[05-Mar-2023 00:08:01 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[05-Mar-2023 14:16:27 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[05-Mar-2023 14:16:27 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[05-Mar-2023 14:16:27 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[05-Mar-2023 14:16:27 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[05-Mar-2023 14:16:27 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[05-Mar-2023 14:16:27 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[05-Mar-2023 14:16:27 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[05-Mar-2023 14:16:27 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[05-Mar-2023 14:16:27 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[05-Mar-2023 14:16:27 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[05-Mar-2023 14:16:27 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[05-Mar-2023 14:16:27 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[05-Mar-2023 14:16:27 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[05-Mar-2023 14:16:27 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[05-Mar-2023 14:16:27 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[05-Mar-2023 14:16:27 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[05-Mar-2023 14:16:27 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[05-Mar-2023 14:17:47 America/Chicago] PHP Warning:  Undefined variable $map in /home4/willeans/public_html/dotDisplay/gridPhp/pullProfilePicture.php on line 31
+[05-Mar-2023 14:17:59 America/Chicago] PHP Warning:  Undefined variable $map in /home4/willeans/public_html/dotDisplay/gridPhp/pullProfilePicture.php on line 31
+[05-Mar-2023 14:18:11 America/Chicago] PHP Warning:  Undefined variable $map in /home4/willeans/public_html/dotDisplay/gridPhp/pullProfilePicture.php on line 31
+[05-Mar-2023 14:18:26 America/Chicago] PHP Warning:  Undefined variable $map in /home4/willeans/public_html/dotDisplay/gridPhp/pullProfilePicture.php on line 31
+[05-Mar-2023 14:18:32 America/Chicago] PHP Warning:  Undefined variable $map in /home4/willeans/public_html/dotDisplay/gridPhp/pullProfilePicture.php on line 31
+[05-Mar-2023 14:18:54 America/Chicago] PHP Warning:  Undefined variable $map in /home4/willeans/public_html/dotDisplay/gridPhp/pullProfilePicture.php on line 31
+[05-Mar-2023 22:47:28 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[05-Mar-2023 22:47:28 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[05-Mar-2023 22:47:28 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[05-Mar-2023 22:47:28 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[05-Mar-2023 22:47:28 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[05-Mar-2023 22:47:28 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[05-Mar-2023 22:47:28 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[05-Mar-2023 22:47:28 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[05-Mar-2023 22:47:28 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[05-Mar-2023 22:47:28 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[05-Mar-2023 22:47:28 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[05-Mar-2023 22:47:28 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[05-Mar-2023 22:47:28 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[05-Mar-2023 22:47:28 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[05-Mar-2023 22:47:28 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[05-Mar-2023 22:47:28 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[05-Mar-2023 22:47:28 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[15-Mar-2023 13:15:00 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[15-Mar-2023 13:15:00 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[15-Mar-2023 13:15:00 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[15-Mar-2023 13:15:00 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[15-Mar-2023 13:15:00 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[15-Mar-2023 13:15:00 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[15-Mar-2023 13:15:00 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[15-Mar-2023 13:15:00 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[15-Mar-2023 13:15:00 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[15-Mar-2023 13:15:00 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[15-Mar-2023 13:15:00 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[15-Mar-2023 13:15:00 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[15-Mar-2023 13:15:00 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[15-Mar-2023 13:15:00 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[15-Mar-2023 13:15:00 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[15-Mar-2023 13:15:00 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[15-Mar-2023 13:15:00 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[20-Mar-2023 16:23:15 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[20-Mar-2023 16:23:15 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[20-Mar-2023 16:23:15 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[20-Mar-2023 16:23:15 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[20-Mar-2023 16:23:15 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[20-Mar-2023 16:23:15 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[20-Mar-2023 16:23:15 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[20-Mar-2023 16:23:15 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[20-Mar-2023 16:23:15 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[20-Mar-2023 16:23:15 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[20-Mar-2023 16:23:15 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[20-Mar-2023 16:23:15 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[20-Mar-2023 16:23:15 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[20-Mar-2023 16:23:15 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[20-Mar-2023 16:23:15 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[20-Mar-2023 16:23:15 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[20-Mar-2023 16:23:15 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[23-Mar-2023 02:20:29 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: Too many connections in /home4/willeans/public_html/dotDisplay/gridPhp/pullDots.php:9
+Stack trace:
+#0 /home4/willeans/public_html/dotDisplay/gridPhp/pullDots.php(9): mysqli->__construct('localhost', 'willeans_dotDis...', 'Kf@LUhD!XSP=', 'willeans_dotDis...')
+#1 {main}
+  thrown in /home4/willeans/public_html/dotDisplay/gridPhp/pullDots.php on line 9
+[01-Apr-2023 18:25:24 America/Chicago] PHP Warning:  Undefined variable $map in /home4/willeans/public_html/dotDisplay/gridPhp/pullProfilePicture.php on line 31
+[05-Apr-2023 17:22:25 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[05-Apr-2023 17:22:25 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[05-Apr-2023 17:22:25 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[05-Apr-2023 17:22:25 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[05-Apr-2023 17:22:25 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[05-Apr-2023 17:22:25 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[05-Apr-2023 17:22:25 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[05-Apr-2023 17:22:25 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[05-Apr-2023 17:22:25 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[05-Apr-2023 17:22:25 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[05-Apr-2023 17:22:25 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[05-Apr-2023 17:22:25 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[05-Apr-2023 17:22:25 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[05-Apr-2023 17:22:25 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[05-Apr-2023 17:22:25 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[05-Apr-2023 17:22:25 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[05-Apr-2023 17:22:25 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[05-Apr-2023 17:22:25 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[05-Apr-2023 17:22:25 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[26-Apr-2023 01:06:55 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[26-Apr-2023 01:06:55 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[26-Apr-2023 01:06:55 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[26-Apr-2023 01:06:55 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[26-Apr-2023 01:06:55 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[26-Apr-2023 01:06:55 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[26-Apr-2023 01:06:55 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[26-Apr-2023 01:06:55 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[26-Apr-2023 01:06:55 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[26-Apr-2023 01:06:55 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[26-Apr-2023 01:06:55 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[26-Apr-2023 01:06:55 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[26-Apr-2023 01:06:55 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[26-Apr-2023 01:06:55 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[26-Apr-2023 01:06:55 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[26-Apr-2023 01:06:55 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[26-Apr-2023 01:06:55 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[26-Apr-2023 01:06:56 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[26-Apr-2023 01:06:56 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[26-Apr-2023 01:07:18 America/Chicago] PHP Warning:  Undefined variable $map in /home4/willeans/public_html/dotDisplay/gridPhp/pullProfilePicture.php on line 31
+[26-Apr-2023 01:07:58 America/Chicago] PHP Warning:  Undefined variable $map in /home4/willeans/public_html/dotDisplay/gridPhp/pullProfilePicture.php on line 31
+[26-Apr-2023 01:10:16 America/Chicago] PHP Warning:  Undefined variable $map in /home4/willeans/public_html/dotDisplay/gridPhp/pullProfilePicture.php on line 31
+[10-May-2023 13:27:38 America/Chicago] PHP Warning:  Undefined variable $map in /home4/willeans/public_html/dotDisplay/gridPhp/pullProfilePicture.php on line 31
+[10-May-2023 13:27:43 America/Chicago] PHP Warning:  Undefined variable $map in /home4/willeans/public_html/dotDisplay/gridPhp/pullProfilePicture.php on line 31
+[10-May-2023 13:28:26 America/Chicago] PHP Warning:  Undefined variable $map in /home4/willeans/public_html/dotDisplay/gridPhp/pullProfilePicture.php on line 31
+[10-May-2023 13:30:25 America/Chicago] PHP Warning:  Undefined variable $map in /home4/willeans/public_html/dotDisplay/gridPhp/pullProfilePicture.php on line 31
+[17-May-2023 15:21:56 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[17-May-2023 15:21:56 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[17-May-2023 15:21:56 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[17-May-2023 15:21:56 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[17-May-2023 15:21:56 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[17-May-2023 15:21:56 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[17-May-2023 15:21:56 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[17-May-2023 15:21:56 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[17-May-2023 15:21:56 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[17-May-2023 15:21:56 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[17-May-2023 15:21:56 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[17-May-2023 15:21:56 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[17-May-2023 15:21:56 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[17-May-2023 15:21:56 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[17-May-2023 15:21:57 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[17-May-2023 15:21:57 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[17-May-2023 15:21:57 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[17-May-2023 15:21:57 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[17-May-2023 15:21:57 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[13-Jul-2023 19:40:14 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[13-Jul-2023 19:40:15 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[13-Jul-2023 19:40:15 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[13-Jul-2023 19:40:15 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[13-Jul-2023 19:40:15 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[13-Jul-2023 19:40:15 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[13-Jul-2023 19:40:15 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[13-Jul-2023 19:40:15 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[13-Jul-2023 19:40:15 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[13-Jul-2023 19:40:15 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[13-Jul-2023 19:40:15 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[13-Jul-2023 19:40:15 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[13-Jul-2023 19:40:15 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[13-Jul-2023 19:40:15 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[13-Jul-2023 19:40:15 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[13-Jul-2023 19:40:15 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[13-Jul-2023 19:40:15 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[13-Jul-2023 19:40:15 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[13-Jul-2023 19:40:15 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[13-Jul-2023 19:40:58 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/addLike.php on line 11
+[18-Jul-2023 16:02:30 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[18-Jul-2023 16:02:35 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[18-Jul-2023 16:02:35 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[18-Jul-2023 16:02:35 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[18-Jul-2023 16:02:35 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[18-Jul-2023 16:02:35 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[18-Jul-2023 16:02:35 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[18-Jul-2023 16:02:35 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[18-Jul-2023 16:02:35 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[18-Jul-2023 16:02:35 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[18-Jul-2023 16:02:35 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[18-Jul-2023 16:02:35 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[18-Jul-2023 16:02:35 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[18-Jul-2023 16:02:35 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[18-Jul-2023 16:02:35 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[18-Jul-2023 16:02:35 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[18-Jul-2023 16:02:35 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[18-Jul-2023 16:02:35 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[18-Jul-2023 16:02:35 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[25-Jul-2023 23:23:44 America/Chicago] PHP Warning:  Undefined variable $map in /home4/willeans/public_html/dotDisplay/gridPhp/pullProfilePicture.php on line 31
+[25-Jul-2023 23:23:47 America/Chicago] PHP Warning:  Undefined variable $map in /home4/willeans/public_html/dotDisplay/gridPhp/pullProfilePicture.php on line 31
+[21-Nov-2023 20:49:29 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: Too many connections in /home4/willeans/public_html/dotDisplay/gridPhp/pushDots.php:8
+Stack trace:
+#0 /home4/willeans/public_html/dotDisplay/gridPhp/pushDots.php(8): mysqli->__construct('localhost', 'willeans_dotDis...', 'Kf@LUhD!XSP=', 'willeans_dotDis...')
+#1 {main}
+  thrown in /home4/willeans/public_html/dotDisplay/gridPhp/pushDots.php on line 8
+[21-Nov-2023 20:49:29 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: Too many connections in /home4/willeans/public_html/dotDisplay/gridPhp/pullDots.php:9
+Stack trace:
+#0 /home4/willeans/public_html/dotDisplay/gridPhp/pullDots.php(9): mysqli->__construct('localhost', 'willeans_dotDis...', 'Kf@LUhD!XSP=', 'willeans_dotDis...')
+#1 {main}
+  thrown in /home4/willeans/public_html/dotDisplay/gridPhp/pullDots.php on line 9
+[21-Nov-2023 20:49:29 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: Too many connections in /home4/willeans/public_html/dotDisplay/gridPhp/galleryPullAllDots.php:9
+Stack trace:
+#0 /home4/willeans/public_html/dotDisplay/gridPhp/galleryPullAllDots.php(9): mysqli->__construct('localhost', 'willeans_dotDis...', 'Kf@LUhD!XSP=', 'willeans_dotDis...')
+#1 {main}
+  thrown in /home4/willeans/public_html/dotDisplay/gridPhp/galleryPullAllDots.php on line 9
+[21-Nov-2023 20:49:29 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: Too many connections in /home4/willeans/public_html/dotDisplay/gridPhp/addLike.php:7
+Stack trace:
+#0 /home4/willeans/public_html/dotDisplay/gridPhp/addLike.php(7): mysqli->__construct('localhost', 'willeans_dotDis...', 'Kf@LUhD!XSP=', 'willeans_dotDis...')
+#1 {main}
+  thrown in /home4/willeans/public_html/dotDisplay/gridPhp/addLike.php on line 7
+[21-Nov-2023 20:49:29 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: Too many connections in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php:9
+Stack trace:
+#0 /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php(9): mysqli->__construct('localhost', 'willeans_dotDis...', 'Kf@LUhD!XSP=', 'willeans_dotDis...')
+#1 {main}
+  thrown in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 9
+[21-Nov-2023 20:49:30 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: Too many connections in /home4/willeans/public_html/dotDisplay/gridPhp/removeLike.php:7
+Stack trace:
+#0 /home4/willeans/public_html/dotDisplay/gridPhp/removeLike.php(7): mysqli->__construct('localhost', 'willeans_dotDis...', 'Kf@LUhD!XSP=', 'willeans_dotDis...')
+#1 {main}
+  thrown in /home4/willeans/public_html/dotDisplay/gridPhp/removeLike.php on line 7
+[29-Dec-2023 20:33:27 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[29-Dec-2023 20:33:27 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[29-Dec-2023 20:33:27 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[29-Dec-2023 20:33:27 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[29-Dec-2023 20:33:27 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[29-Dec-2023 20:33:27 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[29-Dec-2023 20:33:27 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[29-Dec-2023 20:33:27 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[29-Dec-2023 20:33:27 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[29-Dec-2023 20:33:27 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[29-Dec-2023 20:33:27 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[29-Dec-2023 20:33:27 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[29-Dec-2023 20:33:27 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[29-Dec-2023 20:33:27 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[29-Dec-2023 20:33:27 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[29-Dec-2023 20:33:27 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[29-Dec-2023 20:33:27 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[29-Dec-2023 20:33:27 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[29-Dec-2023 20:33:27 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[02-Jan-2024 01:01:36 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[02-Jan-2024 01:01:36 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[02-Jan-2024 01:01:36 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[02-Jan-2024 01:01:37 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[02-Jan-2024 01:01:37 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[02-Jan-2024 01:01:37 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[02-Jan-2024 01:01:38 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[02-Jan-2024 01:01:38 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[02-Jan-2024 01:01:38 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[02-Jan-2024 01:01:38 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[02-Jan-2024 01:01:39 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[02-Jan-2024 01:01:39 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[02-Jan-2024 01:01:39 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[02-Jan-2024 01:01:39 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[02-Jan-2024 01:01:40 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[02-Jan-2024 01:01:40 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[02-Jan-2024 01:01:40 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[02-Jan-2024 01:01:41 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[02-Jan-2024 01:01:41 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[29-Jan-2024 20:10:04 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/removeLike.php on line 11
+[29-Jan-2024 20:10:05 America/Chicago] PHP Warning:  Undefined array key "code" in /home4/willeans/public_html/dotDisplay/gridPhp/removeLike.php on line 12
+[29-Jan-2024 20:10:05 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[29-Jan-2024 20:10:05 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/addLike.php on line 11
+[29-Jan-2024 20:10:05 America/Chicago] PHP Warning:  Undefined array key "code" in /home4/willeans/public_html/dotDisplay/gridPhp/addLike.php on line 12
+[29-Jan-2024 20:10:05 America/Chicago] PHP Warning:  Undefined array key "title" in /home4/willeans/public_html/dotDisplay/gridPhp/pushDots.php on line 2954
+[29-Jan-2024 20:10:05 America/Chicago] PHP Warning:  Undefined array key "name" in /home4/willeans/public_html/dotDisplay/gridPhp/pushDots.php on line 2958
+[29-Jan-2024 20:10:05 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/pushDots.php on line 2959
+[29-Jan-2024 20:10:05 America/Chicago] PHP Warning:  Undefined array key "map" in /home4/willeans/public_html/dotDisplay/gridPhp/pushDots.php on line 2960
+[29-Feb-2024 15:17:22 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[29-Feb-2024 15:17:22 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[29-Feb-2024 15:17:22 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[29-Feb-2024 15:17:22 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[29-Feb-2024 15:17:22 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[29-Feb-2024 15:17:22 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[29-Feb-2024 15:17:22 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[29-Feb-2024 15:17:22 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[29-Feb-2024 15:17:22 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[29-Feb-2024 15:17:22 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[29-Feb-2024 15:17:22 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[29-Feb-2024 15:17:22 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[29-Feb-2024 15:17:22 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[29-Feb-2024 15:17:22 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[29-Feb-2024 15:17:22 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[29-Feb-2024 15:17:22 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[29-Feb-2024 15:17:22 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[29-Feb-2024 15:17:22 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[29-Feb-2024 15:17:22 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[29-Feb-2024 15:17:22 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[29-Feb-2024 23:14:25 America/Chicago] PHP Warning:  Undefined variable $map in /home4/willeans/public_html/dotDisplay/gridPhp/pullProfilePicture.php on line 31
+[29-Feb-2024 23:17:17 America/Chicago] PHP Warning:  Undefined variable $map in /home4/willeans/public_html/dotDisplay/gridPhp/pullProfilePicture.php on line 31
+[29-Feb-2024 23:17:38 America/Chicago] PHP Warning:  Undefined variable $map in /home4/willeans/public_html/dotDisplay/gridPhp/pullProfilePicture.php on line 31
+[02-Jun-2024 00:58:30 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[02-Jun-2024 00:58:30 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[02-Jun-2024 00:58:30 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[02-Jun-2024 00:58:30 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[02-Jun-2024 00:58:30 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[02-Jun-2024 00:58:30 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[02-Jun-2024 00:58:30 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[02-Jun-2024 00:58:30 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[02-Jun-2024 00:58:30 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[02-Jun-2024 00:58:30 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[02-Jun-2024 00:58:30 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[02-Jun-2024 00:58:30 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[02-Jun-2024 00:58:30 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[02-Jun-2024 00:58:30 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[02-Jun-2024 00:58:30 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[02-Jun-2024 00:58:30 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[02-Jun-2024 00:58:30 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[02-Jun-2024 00:58:30 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[02-Jun-2024 00:58:30 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[02-Jun-2024 00:58:30 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[02-Jun-2024 00:58:30 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[02-Jun-2024 13:50:26 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[02-Jun-2024 13:50:26 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[02-Jun-2024 13:50:26 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[02-Jun-2024 13:50:26 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[02-Jun-2024 13:50:26 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[02-Jun-2024 13:50:26 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[02-Jun-2024 13:50:26 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[02-Jun-2024 13:50:26 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[02-Jun-2024 13:50:26 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[02-Jun-2024 13:50:26 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[02-Jun-2024 13:50:26 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[02-Jun-2024 13:50:26 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[02-Jun-2024 13:50:26 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[02-Jun-2024 13:50:26 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[02-Jun-2024 13:50:26 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[02-Jun-2024 13:50:26 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[02-Jun-2024 13:50:26 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[02-Jun-2024 13:50:26 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[02-Jun-2024 13:50:26 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[02-Jun-2024 13:50:26 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[02-Jun-2024 13:50:26 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[02-Jun-2024 17:03:00 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[02-Jun-2024 17:03:00 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[02-Jun-2024 17:03:00 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[02-Jun-2024 17:03:00 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[02-Jun-2024 17:03:00 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[02-Jun-2024 17:03:00 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[02-Jun-2024 17:03:00 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[02-Jun-2024 17:03:00 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[02-Jun-2024 17:03:00 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[02-Jun-2024 17:03:00 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[02-Jun-2024 17:03:00 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[02-Jun-2024 17:03:00 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[02-Jun-2024 17:03:00 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[02-Jun-2024 17:03:00 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[02-Jun-2024 17:03:00 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[02-Jun-2024 17:03:00 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[02-Jun-2024 17:03:01 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[02-Jun-2024 17:03:01 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[02-Jun-2024 17:03:01 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[02-Jun-2024 17:03:01 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[02-Jun-2024 17:03:01 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[02-Jun-2024 17:05:23 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[02-Jun-2024 17:05:23 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[02-Jun-2024 17:05:23 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[02-Jun-2024 17:05:23 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[02-Jun-2024 17:05:23 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[02-Jun-2024 17:05:23 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[02-Jun-2024 17:05:23 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[02-Jun-2024 17:05:23 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[02-Jun-2024 17:05:24 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[02-Jun-2024 17:05:24 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[02-Jun-2024 17:05:24 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[02-Jun-2024 17:05:24 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[02-Jun-2024 17:05:24 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[02-Jun-2024 17:05:24 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[02-Jun-2024 17:05:24 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[02-Jun-2024 17:05:24 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[02-Jun-2024 17:05:24 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[02-Jun-2024 17:05:24 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[02-Jun-2024 17:05:24 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[02-Jun-2024 17:05:24 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[02-Jun-2024 17:05:24 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[11-Jun-2024 11:57:38 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[11-Jun-2024 11:57:39 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[11-Jun-2024 11:57:39 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[11-Jun-2024 11:57:39 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[11-Jun-2024 11:57:39 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[11-Jun-2024 11:57:39 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[11-Jun-2024 11:57:39 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[11-Jun-2024 11:57:39 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[11-Jun-2024 11:57:39 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[11-Jun-2024 11:57:39 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[11-Jun-2024 11:57:39 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[11-Jun-2024 11:57:39 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[11-Jun-2024 11:57:39 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[11-Jun-2024 11:57:39 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[11-Jun-2024 11:57:39 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[11-Jun-2024 11:57:39 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[11-Jun-2024 11:57:39 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[11-Jun-2024 11:57:39 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[11-Jun-2024 11:57:39 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[11-Jun-2024 11:57:39 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[11-Jun-2024 11:57:39 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[12-Jun-2024 00:13:20 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[12-Jun-2024 00:13:20 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[12-Jun-2024 00:13:20 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[12-Jun-2024 00:13:20 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[12-Jun-2024 00:13:20 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[12-Jun-2024 00:13:20 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[12-Jun-2024 00:13:20 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[12-Jun-2024 00:13:20 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[12-Jun-2024 00:13:20 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[12-Jun-2024 00:13:20 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[12-Jun-2024 00:13:20 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[12-Jun-2024 00:13:20 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[12-Jun-2024 00:13:20 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[12-Jun-2024 00:13:20 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[12-Jun-2024 00:13:20 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[12-Jun-2024 00:13:20 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[12-Jun-2024 00:13:20 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[12-Jun-2024 00:13:20 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[12-Jun-2024 00:13:20 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[12-Jun-2024 00:13:20 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[12-Jun-2024 00:13:20 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[18-Jul-2024 21:45:45 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[18-Jul-2024 21:45:45 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[18-Jul-2024 21:45:45 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[18-Jul-2024 21:45:45 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[18-Jul-2024 21:45:45 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[18-Jul-2024 21:45:45 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[18-Jul-2024 21:45:45 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[18-Jul-2024 21:45:45 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[18-Jul-2024 21:45:45 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[18-Jul-2024 21:45:45 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[18-Jul-2024 21:45:45 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[18-Jul-2024 21:45:45 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[18-Jul-2024 21:45:45 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[18-Jul-2024 21:45:45 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[18-Jul-2024 21:45:45 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[18-Jul-2024 21:45:45 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[18-Jul-2024 21:45:45 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[18-Jul-2024 21:45:45 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[18-Jul-2024 21:45:45 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[18-Jul-2024 21:45:45 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[18-Jul-2024 21:45:45 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[18-Jul-2024 21:47:20 America/Chicago] PHP Warning:  Undefined variable $map in /home4/willeans/public_html/dotDisplay/gridPhp/pullProfilePicture.php on line 31
+[19-Jul-2024 14:47:49 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[19-Jul-2024 14:47:49 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[19-Jul-2024 14:47:49 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[19-Jul-2024 14:47:49 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[19-Jul-2024 14:47:49 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[19-Jul-2024 14:47:49 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[19-Jul-2024 14:47:49 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[19-Jul-2024 14:47:49 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[19-Jul-2024 14:47:49 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[19-Jul-2024 14:47:49 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[19-Jul-2024 14:47:49 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[19-Jul-2024 14:47:49 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[19-Jul-2024 14:47:49 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[19-Jul-2024 14:47:49 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[19-Jul-2024 14:47:49 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[19-Jul-2024 14:47:49 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[19-Jul-2024 14:47:49 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[19-Jul-2024 14:47:49 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[19-Jul-2024 14:47:49 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[19-Jul-2024 14:47:49 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[19-Jul-2024 14:47:49 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[07-Aug-2024 12:51:40 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[07-Aug-2024 12:51:40 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[07-Aug-2024 12:51:40 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[07-Aug-2024 12:51:40 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[07-Aug-2024 12:51:40 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[07-Aug-2024 12:51:40 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[07-Aug-2024 12:51:40 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[07-Aug-2024 12:51:40 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[07-Aug-2024 12:51:40 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[07-Aug-2024 12:51:40 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[07-Aug-2024 12:51:40 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[07-Aug-2024 12:51:40 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[07-Aug-2024 12:51:40 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[07-Aug-2024 12:51:40 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[07-Aug-2024 12:51:40 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[07-Aug-2024 12:51:40 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[07-Aug-2024 12:51:40 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[07-Aug-2024 12:51:40 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[07-Aug-2024 12:51:40 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[07-Aug-2024 12:51:40 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[07-Aug-2024 12:51:40 America/Chicago] PHP Warning:  Undefined array key "id" in /home4/willeans/public_html/dotDisplay/gridPhp/likeCheck.php on line 14
+[22-Aug-2024 21:08:30 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: Too many connections in /home4/willeans/public_html/dotDisplay/gridPhp/pullDots.php:9
+Stack trace:
+#0 /home4/willeans/public_html/dotDisplay/gridPhp/pullDots.php(9): mysqli->__construct('localhost', 'willeans_dotDis...', Object(SensitiveParameterValue), 'willeans_dotDis...')
+#1 {main}
+  thrown in /home4/willeans/public_html/dotDisplay/gridPhp/pullDots.php on line 9
+[22-Aug-2024 21:08:33 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: Too many connections in /home4/willeans/public_html/dotDisplay/gridPhp/galleryPullAllDots.php:9
+Stack trace:
+#0 /home4/willeans/public_html/dotDisplay/gridPhp/galleryPullAllDots.php(9): mysqli->__construct('localhost', 'willeans_dotDis...', Object(SensitiveParameterValue), 'willeans_dotDis...')
+#1 {main}
+  thrown in /home4/willeans/public_html/dotDisplay/gridPhp/galleryPullAllDots.php on line 9
+[22-Aug-2024 21:08:37 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: Too many connections in /home4/willeans/public_html/dotDisplay/gridPhp/pullDots.php:9
+Stack trace:
+#0 /home4/willeans/public_html/dotDisplay/gridPhp/pullDots.php(9): mysqli->__construct('localhost', 'willeans_dotDis...', Object(SensitiveParameterValue), 'willeans_dotDis...')
+#1 {main}
+  thrown in /home4/willeans/public_html/dotDisplay/gridPhp/pullDots.php on line 9
+[26-Aug-2024 14:33:27 America/Chicago] PHP Warning:  Undefined variable $map in /home4/willeans/public_html/dotDisplay/gridPhp/pullProfilePicture.php on line 31

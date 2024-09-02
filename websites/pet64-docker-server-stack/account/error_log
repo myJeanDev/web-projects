@@ -1,0 +1,3 @@
+[21-Feb-2023 11:00:40 America/Chicago] PHP Warning:  Undefined array key "createdUsername" in /home4/willeans/public_html/dotDisplay/account/signUp.php on line 20
+[21-Feb-2023 11:00:40 America/Chicago] PHP Warning:  Undefined array key "createdEmail" in /home4/willeans/public_html/dotDisplay/account/signUp.php on line 22
+[21-Feb-2023 11:00:41 America/Chicago] PHP Warning:  Undefined variable $header in /home4/willeans/public_html/dotDisplay/account/signUp.php on line 59

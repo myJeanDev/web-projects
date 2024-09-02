@@ -1,0 +1,286 @@
+[19-Feb-2023 17:16:32 America/Chicago] PHP Fatal error:  Uncaught TypeError: json_decode(): Argument #1 ($json) must be of type string, array given in /home4/willeans/public_html/dotDisplay/pushDots.php:12
+Stack trace:
+#0 /home4/willeans/public_html/dotDisplay/pushDots.php(12): json_decode(Array)
+#1 {main}
+  thrown in /home4/willeans/public_html/dotDisplay/pushDots.php on line 12
+[19-Feb-2023 17:17:56 America/Chicago] PHP Warning:  Undefined variable $encodedMap in /home4/willeans/public_html/dotDisplay/pushDots.php on line 14
+[19-Feb-2023 17:17:56 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: Invalid JSON text: "The document is empty." at position 0 in value for column 'displays.map'. in /home4/willeans/public_html/dotDisplay/pushDots.php:15
+Stack trace:
+#0 /home4/willeans/public_html/dotDisplay/pushDots.php(15): mysqli->query('INSERT INTO dis...')
+#1 {main}
+  thrown in /home4/willeans/public_html/dotDisplay/pushDots.php on line 15
+[19-Feb-2023 17:19:18 America/Chicago] PHP Warning:  Undefined variable $encodedMap in /home4/willeans/public_html/dotDisplay/pushDots.php on line 14
+[19-Feb-2023 17:19:18 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: Invalid JSON text: "The document is empty." at position 0 in value for column 'displays.map'. in /home4/willeans/public_html/dotDisplay/pushDots.php:15
+Stack trace:
+#0 /home4/willeans/public_html/dotDisplay/pushDots.php(15): mysqli->query('INSERT INTO dis...')
+#1 {main}
+  thrown in /home4/willeans/public_html/dotDisplay/pushDots.php on line 15
+[19-Feb-2023 17:20:58 America/Chicago] PHP Warning:  Undefined variable $encodedMap in /home4/willeans/public_html/dotDisplay/pushDots.php on line 14
+[19-Feb-2023 17:20:58 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: Invalid JSON text: "The document is empty." at position 0 in value for column 'displays.map'. in /home4/willeans/public_html/dotDisplay/pushDots.php:15
+Stack trace:
+#0 /home4/willeans/public_html/dotDisplay/pushDots.php(15): mysqli->query('INSERT INTO dis...')
+#1 {main}
+  thrown in /home4/willeans/public_html/dotDisplay/pushDots.php on line 15
+[19-Feb-2023 17:24:28 America/Chicago] PHP Warning:  Undefined array key "key" in /home4/willeans/public_html/dotDisplay/pushDots.php on line 12
+[19-Feb-2023 17:24:28 America/Chicago] PHP Warning:  Undefined variable $encodedMap in /home4/willeans/public_html/dotDisplay/pushDots.php on line 14
+[19-Feb-2023 17:24:28 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: Invalid JSON text: "The document is empty." at position 0 in value for column 'displays.map'. in /home4/willeans/public_html/dotDisplay/pushDots.php:15
+Stack trace:
+#0 /home4/willeans/public_html/dotDisplay/pushDots.php(15): mysqli->query('INSERT INTO dis...')
+#1 {main}
+  thrown in /home4/willeans/public_html/dotDisplay/pushDots.php on line 15
+[19-Feb-2023 17:26:45 America/Chicago] PHP Warning:  Undefined array key "key" in /home4/willeans/public_html/dotDisplay/pushDots.php on line 13
+[19-Feb-2023 17:26:45 America/Chicago] PHP Warning:  Undefined variable $encodedMap in /home4/willeans/public_html/dotDisplay/pushDots.php on line 15
+[19-Feb-2023 17:26:45 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: Invalid JSON text: "The document is empty." at position 0 in value for column 'displays.map'. in /home4/willeans/public_html/dotDisplay/pushDots.php:16
+Stack trace:
+#0 /home4/willeans/public_html/dotDisplay/pushDots.php(16): mysqli->query('INSERT INTO dis...')
+#1 {main}
+  thrown in /home4/willeans/public_html/dotDisplay/pushDots.php on line 16
+[19-Feb-2023 17:27:35 America/Chicago] PHP Warning:  Undefined variable $encodedMap in /home4/willeans/public_html/dotDisplay/pushDots.php on line 15
+[19-Feb-2023 17:27:35 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: Invalid JSON text: "The document is empty." at position 0 in value for column 'displays.map'. in /home4/willeans/public_html/dotDisplay/pushDots.php:16
+Stack trace:
+#0 /home4/willeans/public_html/dotDisplay/pushDots.php(16): mysqli->query('INSERT INTO dis...')
+#1 {main}
+  thrown in /home4/willeans/public_html/dotDisplay/pushDots.php on line 16
+[19-Feb-2023 17:32:28 America/Chicago] PHP Warning:  Undefined variable $encodedMap in /home4/willeans/public_html/dotDisplay/pushDots.php on line 15
+[19-Feb-2023 17:32:28 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: Invalid JSON text: "The document is empty." at position 0 in value for column 'displays.map'. in /home4/willeans/public_html/dotDisplay/pushDots.php:16
+Stack trace:
+#0 /home4/willeans/public_html/dotDisplay/pushDots.php(16): mysqli->query('INSERT INTO dis...')
+#1 {main}
+  thrown in /home4/willeans/public_html/dotDisplay/pushDots.php on line 16
+[19-Feb-2023 17:32:57 America/Chicago] PHP Warning:  Undefined variable $encodedMap in /home4/willeans/public_html/dotDisplay/pushDots.php on line 15
+[19-Feb-2023 17:32:57 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: Invalid JSON text: "The document is empty." at position 0 in value for column 'displays.map'. in /home4/willeans/public_html/dotDisplay/pushDots.php:16
+Stack trace:
+#0 /home4/willeans/public_html/dotDisplay/pushDots.php(16): mysqli->query('INSERT INTO dis...')
+#1 {main}
+  thrown in /home4/willeans/public_html/dotDisplay/pushDots.php on line 16
+[19-Feb-2023 17:34:14 America/Chicago] PHP Warning:  Undefined array key "key" in /home4/willeans/public_html/dotDisplay/pushDots.php on line 12
+[19-Feb-2023 17:34:14 America/Chicago] PHP Warning:  Undefined variable $encodedMap in /home4/willeans/public_html/dotDisplay/pushDots.php on line 15
+[19-Feb-2023 17:34:14 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: Invalid JSON text: "The document is empty." at position 0 in value for column 'displays.map'. in /home4/willeans/public_html/dotDisplay/pushDots.php:16
+Stack trace:
+#0 /home4/willeans/public_html/dotDisplay/pushDots.php(16): mysqli->query('INSERT INTO dis...')
+#1 {main}
+  thrown in /home4/willeans/public_html/dotDisplay/pushDots.php on line 16
+[19-Feb-2023 17:34:30 America/Chicago] PHP Warning:  Undefined array key 0 in /home4/willeans/public_html/dotDisplay/pushDots.php on line 12
+[19-Feb-2023 17:34:30 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home4/willeans/public_html/dotDisplay/pushDots.php on line 12
+[19-Feb-2023 17:34:30 America/Chicago] PHP Warning:  Undefined variable $encodedMap in /home4/willeans/public_html/dotDisplay/pushDots.php on line 15
+[19-Feb-2023 17:34:30 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: Invalid JSON text: "The document is empty." at position 0 in value for column 'displays.map'. in /home4/willeans/public_html/dotDisplay/pushDots.php:16
+Stack trace:
+#0 /home4/willeans/public_html/dotDisplay/pushDots.php(16): mysqli->query('INSERT INTO dis...')
+#1 {main}
+  thrown in /home4/willeans/public_html/dotDisplay/pushDots.php on line 16
+[19-Feb-2023 17:35:26 America/Chicago] PHP Warning:  Undefined array key 0 in /home4/willeans/public_html/dotDisplay/pushDots.php on line 12
+[19-Feb-2023 17:35:26 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home4/willeans/public_html/dotDisplay/pushDots.php on line 12
+[19-Feb-2023 17:35:26 America/Chicago] PHP Warning:  Undefined variable $encodedMap in /home4/willeans/public_html/dotDisplay/pushDots.php on line 15
+[19-Feb-2023 17:35:26 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: Invalid JSON text: "The document is empty." at position 0 in value for column 'displays.map'. in /home4/willeans/public_html/dotDisplay/pushDots.php:16
+Stack trace:
+#0 /home4/willeans/public_html/dotDisplay/pushDots.php(16): mysqli->query('INSERT INTO dis...')
+#1 {main}
+  thrown in /home4/willeans/public_html/dotDisplay/pushDots.php on line 16
+[19-Feb-2023 17:38:54 America/Chicago] PHP Warning:  Undefined array key "data" in /home4/willeans/public_html/dotDisplay/pushDots.php on line 12
+[19-Feb-2023 17:38:54 America/Chicago] PHP Warning:  Undefined variable $encodedMap in /home4/willeans/public_html/dotDisplay/pushDots.php on line 15
+[19-Feb-2023 17:38:54 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: Invalid JSON text: "The document is empty." at position 0 in value for column 'displays.map'. in /home4/willeans/public_html/dotDisplay/pushDots.php:16
+Stack trace:
+#0 /home4/willeans/public_html/dotDisplay/pushDots.php(16): mysqli->query('INSERT INTO dis...')
+#1 {main}
+  thrown in /home4/willeans/public_html/dotDisplay/pushDots.php on line 16
+[19-Feb-2023 17:39:33 America/Chicago] PHP Warning:  Undefined array key "data" in /home4/willeans/public_html/dotDisplay/pushDots.php on line 12
+[19-Feb-2023 17:39:33 America/Chicago] PHP Warning:  Undefined variable $encodedMap in /home4/willeans/public_html/dotDisplay/pushDots.php on line 15
+[19-Feb-2023 17:39:33 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: Invalid JSON text: "The document is empty." at position 0 in value for column 'displays.map'. in /home4/willeans/public_html/dotDisplay/pushDots.php:16
+Stack trace:
+#0 /home4/willeans/public_html/dotDisplay/pushDots.php(16): mysqli->query('INSERT INTO dis...')
+#1 {main}
+  thrown in /home4/willeans/public_html/dotDisplay/pushDots.php on line 16
+[19-Feb-2023 17:39:56 America/Chicago] PHP Warning:  Undefined array key "data" in /home4/willeans/public_html/dotDisplay/pushDots.php on line 12
+[19-Feb-2023 17:39:56 America/Chicago] PHP Warning:  Undefined variable $encodedMap in /home4/willeans/public_html/dotDisplay/pushDots.php on line 15
+[19-Feb-2023 17:39:56 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: Invalid JSON text: "The document is empty." at position 0 in value for column 'displays.map'. in /home4/willeans/public_html/dotDisplay/pushDots.php:16
+Stack trace:
+#0 /home4/willeans/public_html/dotDisplay/pushDots.php(16): mysqli->query('INSERT INTO dis...')
+#1 {main}
+  thrown in /home4/willeans/public_html/dotDisplay/pushDots.php on line 16
+[19-Feb-2023 17:41:54 America/Chicago] PHP Warning:  Array to string conversion in /home4/willeans/public_html/dotDisplay/pushDots.php on line 13
+[19-Feb-2023 17:41:54 America/Chicago] PHP Warning:  Undefined variable $encodedMap in /home4/willeans/public_html/dotDisplay/pushDots.php on line 15
+[19-Feb-2023 17:41:54 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: Invalid JSON text: "The document is empty." at position 0 in value for column 'displays.map'. in /home4/willeans/public_html/dotDisplay/pushDots.php:16
+Stack trace:
+#0 /home4/willeans/public_html/dotDisplay/pushDots.php(16): mysqli->query('INSERT INTO dis...')
+#1 {main}
+  thrown in /home4/willeans/public_html/dotDisplay/pushDots.php on line 16
+[19-Feb-2023 17:43:05 America/Chicago] PHP Fatal error:  Uncaught TypeError: json_decode(): Argument #1 ($json) must be of type string, array given in /home4/willeans/public_html/dotDisplay/pushDots.php:13
+Stack trace:
+#0 /home4/willeans/public_html/dotDisplay/pushDots.php(13): json_decode(Array)
+#1 {main}
+  thrown in /home4/willeans/public_html/dotDisplay/pushDots.php on line 13
+[19-Feb-2023 17:43:33 America/Chicago] PHP Warning:  Undefined variable $encodedMap in /home4/willeans/public_html/dotDisplay/pushDots.php on line 15
+[19-Feb-2023 17:43:33 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: Invalid JSON text: "The document is empty." at position 0 in value for column 'displays.map'. in /home4/willeans/public_html/dotDisplay/pushDots.php:16
+Stack trace:
+#0 /home4/willeans/public_html/dotDisplay/pushDots.php(16): mysqli->query('INSERT INTO dis...')
+#1 {main}
+  thrown in /home4/willeans/public_html/dotDisplay/pushDots.php on line 16
+[19-Feb-2023 17:45:03 America/Chicago] PHP Warning:  Undefined variable $encodedMap in /home4/willeans/public_html/dotDisplay/pushDots.php on line 15
+[19-Feb-2023 17:45:03 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: Invalid JSON text: "The document is empty." at position 0 in value for column 'displays.map'. in /home4/willeans/public_html/dotDisplay/pushDots.php:16
+Stack trace:
+#0 /home4/willeans/public_html/dotDisplay/pushDots.php(16): mysqli->query('INSERT INTO dis...')
+#1 {main}
+  thrown in /home4/willeans/public_html/dotDisplay/pushDots.php on line 16
+[19-Feb-2023 17:45:40 America/Chicago] PHP Warning:  Array to string conversion in /home4/willeans/public_html/dotDisplay/pushDots.php on line 15
+[19-Feb-2023 17:45:40 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: Invalid JSON text: "Invalid value." at position 0 in value for column 'displays.map'. in /home4/willeans/public_html/dotDisplay/pushDots.php:16
+Stack trace:
+#0 /home4/willeans/public_html/dotDisplay/pushDots.php(16): mysqli->query('INSERT INTO dis...')
+#1 {main}
+  thrown in /home4/willeans/public_html/dotDisplay/pushDots.php on line 16
+[19-Feb-2023 17:45:57 America/Chicago] PHP Warning:  Array to string conversion in /home4/willeans/public_html/dotDisplay/pushDots.php on line 15
+[19-Feb-2023 17:45:57 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: Invalid JSON text: "Invalid value." at position 0 in value for column 'displays.map'. in /home4/willeans/public_html/dotDisplay/pushDots.php:16
+Stack trace:
+#0 /home4/willeans/public_html/dotDisplay/pushDots.php(16): mysqli->query('INSERT INTO dis...')
+#1 {main}
+  thrown in /home4/willeans/public_html/dotDisplay/pushDots.php on line 16
+[19-Feb-2023 17:46:54 America/Chicago] PHP Warning:  Array to string conversion in /home4/willeans/public_html/dotDisplay/pushDots.php on line 15
+[19-Feb-2023 17:46:54 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'Array' in 'field list' in /home4/willeans/public_html/dotDisplay/pushDots.php:16
+Stack trace:
+#0 /home4/willeans/public_html/dotDisplay/pushDots.php(16): mysqli->query('INSERT INTO dis...')
+#1 {main}
+  thrown in /home4/willeans/public_html/dotDisplay/pushDots.php on line 16
+[19-Feb-2023 17:53:11 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '["Volvo","BMW","Toyota"])' at line 1 in /home4/willeans/public_html/dotDisplay/pushDots.php:19
+Stack trace:
+#0 /home4/willeans/public_html/dotDisplay/pushDots.php(19): mysqli->query('INSERT INTO dis...')
+#1 {main}
+  thrown in /home4/willeans/public_html/dotDisplay/pushDots.php on line 19
+[19-Feb-2023 17:54:41 America/Chicago] PHP Warning:  Array to string conversion in /home4/willeans/public_html/dotDisplay/pushDots.php on line 18
+[19-Feb-2023 17:54:41 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: Invalid JSON text: "Invalid value." at position 0 in value for column 'displays.map'. in /home4/willeans/public_html/dotDisplay/pushDots.php:19
+Stack trace:
+#0 /home4/willeans/public_html/dotDisplay/pushDots.php(19): mysqli->query('INSERT INTO dis...')
+#1 {main}
+  thrown in /home4/willeans/public_html/dotDisplay/pushDots.php on line 19
+[19-Feb-2023 17:55:08 America/Chicago] PHP Warning:  Array to string conversion in /home4/willeans/public_html/dotDisplay/pushDots.php on line 18
+[19-Feb-2023 17:55:08 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: Invalid JSON text: "Invalid value." at position 0 in value for column 'displays.map'. in /home4/willeans/public_html/dotDisplay/pushDots.php:19
+Stack trace:
+#0 /home4/willeans/public_html/dotDisplay/pushDots.php(19): mysqli->query('INSERT INTO dis...')
+#1 {main}
+  thrown in /home4/willeans/public_html/dotDisplay/pushDots.php on line 19
+[19-Feb-2023 17:57:54 America/Chicago] PHP Warning:  Array to string conversion in /home4/willeans/public_html/dotDisplay/pushDots.php on line 18
+[19-Feb-2023 17:57:54 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: Invalid JSON text: "Invalid value." at position 0 in value for column 'displays.map'. in /home4/willeans/public_html/dotDisplay/pushDots.php:19
+Stack trace:
+#0 /home4/willeans/public_html/dotDisplay/pushDots.php(19): mysqli->query('INSERT INTO dis...')
+#1 {main}
+  thrown in /home4/willeans/public_html/dotDisplay/pushDots.php on line 19
+[19-Feb-2023 18:01:35 America/Chicago] PHP Warning:  Array to string conversion in /home4/willeans/public_html/dotDisplay/pushDots.php on line 20
+[19-Feb-2023 18:01:35 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: Invalid JSON text: "Invalid value." at position 0 in value for column 'displays.map'. in /home4/willeans/public_html/dotDisplay/pushDots.php:21
+Stack trace:
+#0 /home4/willeans/public_html/dotDisplay/pushDots.php(21): mysqli->query('INSERT INTO dis...')
+#1 {main}
+  thrown in /home4/willeans/public_html/dotDisplay/pushDots.php on line 21
+[19-Feb-2023 18:02:59 America/Chicago] PHP Warning:  Array to string conversion in /home4/willeans/public_html/dotDisplay/pushDots.php on line 17
+[19-Feb-2023 18:04:44 America/Chicago] PHP Warning:  Array to string conversion in /home4/willeans/public_html/dotDisplay/pushDots.php on line 18
+[19-Feb-2023 18:05:09 America/Chicago] PHP Warning:  Array to string conversion in /home4/willeans/public_html/dotDisplay/pushDots.php on line 18
+[19-Feb-2023 22:31:27 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: No such file or directory in /home4/willeans/public_html/dotDisplay/pullDots.php:8
+Stack trace:
+#0 /home4/willeans/public_html/dotDisplay/pullDots.php(8): mysqli->__construct('localhost', 'willeans_dotDis...', ')%_1RKiMsfKu', 'willeans_dotDis...')
+#1 {main}
+  thrown in /home4/willeans/public_html/dotDisplay/pullDots.php on line 8
+[19-Feb-2023 22:33:40 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: No such file or directory in /home4/willeans/public_html/dotDisplay/pushDots.php:8
+Stack trace:
+#0 /home4/willeans/public_html/dotDisplay/pushDots.php(8): mysqli->__construct('localhost', 'willeans_dotDis...', ')%_1RKiMsfKu', 'willeans_dotDis...')
+#1 {main}
+  thrown in /home4/willeans/public_html/dotDisplay/pushDots.php on line 8
+[19-Feb-2023 22:34:10 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: No such file or directory in /home4/willeans/public_html/dotDisplay/pullDots.php:8
+Stack trace:
+#0 /home4/willeans/public_html/dotDisplay/pullDots.php(8): mysqli->__construct('localhost', 'willeans_dotDis...', ')%_1RKiMsfKu', 'willeans_dotDis...')
+#1 {main}
+  thrown in /home4/willeans/public_html/dotDisplay/pullDots.php on line 8
+[19-Feb-2023 23:26:11 America/Chicago] PHP Warning:  fopen(home.txt): Failed to open stream: `[[&quot;1&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;1&quot;,&quot;1&quot;,&quot;1&quot;,&quot;1&quot;,&quot;1&quot;,&quot;1&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;],[&quot;1&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;1&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;1&quot;,&quot;1&quot;,&quot;0&quot;,&quot;1&quot;,&quot;1&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;1&quot;,&quot;1&quot;,&quot;1&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;],[&quot;1&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;1&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;1&quot;,&quot;1&quot;,&quot;0&quot;,&quot;1&quot;,&quot;0&quot;,&quot;1&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;1&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;],[&quot;1&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;1&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;1&quot;,&quot;1&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;1&quot;,&quot;1&quot;,&quot;1&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;],[&quot;1&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;1&quot;,&quot;1&quot;,&quot;1&quot;,&quot;1&quot;,&quot;1&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;1&quot;,&quot;1&quot;,&quot;1&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;],[&quot;1&quot;,&quot;0&quot;,&quot;1&quot;,&quot;1&quot;,&quot;1&quot;,&quot;1&quot;,&quot;1&quot;,&quot;1&quot;,&quot;1&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;1&quot;,&quot;1&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;1&quot;,&quot;1&quot;,&quot;1&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;],[&quot;1&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;1&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;1&quot;,&quot;1&quot;,&quot;1&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;1&quot;,&quot;1&quot;,&quot;0&quot;,&quot;1&quot;,&quot;1&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;],[&quot;1&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;1&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;1&quot;,&quot;0&quot;,&quot;1&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;1&quot;,&quot;1&quot;,&quot;1&quot;,&quot;1&quot;,&quot;1&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;],[&quot;1&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;1&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;1&quot;,&quot;0&quot;,&quot;1&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;1&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;1&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;],[&quot;1&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;1&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;1&quot;,&quot;1&quot;,&quot;0&quot;,&quot;1&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;1&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;1&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;],[&quot;1&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;1&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;1&quot;,&quot;1&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;1&quot;,&quot;0&quot;,&quot;1&quot;,&quot;0&quot;,&quot;1&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;],[&quot;1&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;1&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;1&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;1&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;1&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;1&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;],[&quot;1&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;1&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;1&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;1&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;1&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;1&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;],[&quot;1&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;1&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;1&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;1&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;1&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;1&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;],[&quot;1&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;1&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;1&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;1&quot;,&quot;0&quot;,&quot;1&quot;,&quot;0&quot;,&quot;1&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;],[&quot;1&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;1&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;1&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;1&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;1&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;],[&quot;1&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;1&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;1&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;1&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;1&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;1&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;],[&quot;1&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;1&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;1&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;1&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;1&quot;,&quot;0&quot;,&quot;1&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;],[&quot;1&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;1&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;1&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;1&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;1&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;1&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;],[&quot;1&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;1&quot;,&quot;1&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;1&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;1&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;],[&quot;1&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;1&quot;,&quot;1&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;1&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;1&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;1&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;],[&quot;1&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;1&quot;,&quot;1&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;1&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;1&quot;,&quot;0&quot;,&quot;0&quot;,&quot;1&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;],[&quot;1&quot;,&quot;1&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;1&quot;,&quot;1&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;1&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;1&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;],[&quot;1&quot;,&quot;1&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;1&quot;,&quot;1&quot;,&quot;1&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;1&quot;,&quot;0&quot;,&quot;0&quot;,&quot;1&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;],[&quot;1&quot;,&quot;1&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;1&quot;,&quot;0&quot;,&quot;1&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;1&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;1&quot;,&quot;0&quot;,&quot;1&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;1&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;],[&quot;1&quot;,&quot;1&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;1&quot;,&quot;1&quot;,&quot;1&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;1&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;1&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;1&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;],[&quot;1&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;1&quot;,&quot;1&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;]]' is not a valid mode for fopen in /home4/willeans/public_html/dotDisplay/pushDots.php on line 21
+[19-Feb-2023 23:38:21 America/Chicago] PHP Warning:  Array to string conversion in /home4/willeans/public_html/dotDisplay/pullDots.php on line 22
+[20-Feb-2023 12:15:37 America/Chicago] PHP Warning:  Array to string conversion in /home4/willeans/public_html/dotDisplay/pushDots.php on line 13
+[20-Feb-2023 12:15:46 America/Chicago] PHP Warning:  Array to string conversion in /home4/willeans/public_html/dotDisplay/pushDots.php on line 13
+[20-Feb-2023 12:27:38 America/Chicago] PHP Warning:  Array to string conversion in /home4/willeans/public_html/dotDisplay/pushDots.php on line 13
+[20-Feb-2023 12:27:45 America/Chicago] PHP Warning:  Array to string conversion in /home4/willeans/public_html/dotDisplay/pushDots.php on line 13
+[20-Feb-2023 12:30:33 America/Chicago] PHP Warning:  Array to string conversion in /home4/willeans/public_html/dotDisplay/pushDots.php on line 13
+[20-Feb-2023 12:31:18 America/Chicago] PHP Warning:  Array to string conversion in /home4/willeans/public_html/dotDisplay/pushDots.php on line 13
+[20-Feb-2023 12:31:18 America/Chicago] PHP Warning:  Array to string conversion in /home4/willeans/public_html/dotDisplay/pushDots.php on line 14
+[20-Feb-2023 12:33:52 America/Chicago] PHP Warning:  Array to string conversion in /home4/willeans/public_html/dotDisplay/pushDots.php on line 14
+[20-Feb-2023 12:36:33 America/Chicago] PHP Warning:  Array to string conversion in /home4/willeans/public_html/dotDisplay/pushDots.php on line 14
+[20-Feb-2023 12:37:24 America/Chicago] PHP Warning:  Array to string conversion in /home4/willeans/public_html/dotDisplay/pushDots.php on line 14
+[20-Feb-2023 12:37:27 America/Chicago] PHP Warning:  Array to string conversion in /home4/willeans/public_html/dotDisplay/pushDots.php on line 14
+[20-Feb-2023 14:36:15 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: Too many connections in /home4/willeans/public_html/dotDisplay/pullDots.php:8
+Stack trace:
+#0 /home4/willeans/public_html/dotDisplay/pullDots.php(8): mysqli->__construct('localhost', 'willeans_dotDis...', ')%_1RKiMsfKu', 'willeans_dotDis...')
+#1 {main}
+  thrown in /home4/willeans/public_html/dotDisplay/pullDots.php on line 8
+[20-Feb-2023 15:03:45 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'Home' in 'where clause' in /home4/willeans/public_html/dotDisplay/pushDots.php:18
+Stack trace:
+#0 /home4/willeans/public_html/dotDisplay/pushDots.php(18): mysqli->query('UPDATE displays...')
+#1 {main}
+  thrown in /home4/willeans/public_html/dotDisplay/pushDots.php on line 18
+[20-Feb-2023 15:04:05 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'Home' in 'where clause' in /home4/willeans/public_html/dotDisplay/pushDots.php:18
+Stack trace:
+#0 /home4/willeans/public_html/dotDisplay/pushDots.php(18): mysqli->query('UPDATE displays...')
+#1 {main}
+  thrown in /home4/willeans/public_html/dotDisplay/pushDots.php on line 18
+[20-Feb-2023 15:07:07 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'Home' in 'where clause' in /home4/willeans/public_html/dotDisplay/pushDots.php:20
+Stack trace:
+#0 /home4/willeans/public_html/dotDisplay/pushDots.php(20): mysqli->query('UPDATE displays...')
+#1 {main}
+  thrown in /home4/willeans/public_html/dotDisplay/pushDots.php on line 20
+[20-Feb-2023 23:10:35 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: Too many connections in /home4/willeans/public_html/dotDisplay/pullDots.php:8
+Stack trace:
+#0 /home4/willeans/public_html/dotDisplay/pullDots.php(8): mysqli->__construct('localhost', 'willeans_dotDis...', ')%_1RKiMsfKu', 'willeans_dotDis...')
+#1 {main}
+  thrown in /home4/willeans/public_html/dotDisplay/pullDots.php on line 8
+[20-Feb-2023 23:12:26 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: Too many connections in /home4/willeans/public_html/dotDisplay/pullDots.php:8
+Stack trace:
+#0 /home4/willeans/public_html/dotDisplay/pullDots.php(8): mysqli->__construct('localhost', 'willeans_dotDis...', ')%_1RKiMsfKu', 'willeans_dotDis...')
+#1 {main}
+  thrown in /home4/willeans/public_html/dotDisplay/pullDots.php on line 8
+[20-Feb-2023 23:12:44 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: Too many connections in /home4/willeans/public_html/dotDisplay/pullDots.php:8
+Stack trace:
+#0 /home4/willeans/public_html/dotDisplay/pullDots.php(8): mysqli->__construct('localhost', 'willeans_dotDis...', ')%_1RKiMsfKu', 'willeans_dotDis...')
+#1 {main}
+  thrown in /home4/willeans/public_html/dotDisplay/pullDots.php on line 8
+[20-Feb-2023 23:12:48 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: Too many connections in /home4/willeans/public_html/dotDisplay/pullDots.php:8
+Stack trace:
+#0 /home4/willeans/public_html/dotDisplay/pullDots.php(8): mysqli->__construct('localhost', 'willeans_dotDis...', ')%_1RKiMsfKu', 'willeans_dotDis...')
+#1 {main}
+  thrown in /home4/willeans/public_html/dotDisplay/pullDots.php on line 8
+[20-Feb-2023 23:14:38 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: Too many connections in /home4/willeans/public_html/dotDisplay/pullDots.php:8
+Stack trace:
+#0 /home4/willeans/public_html/dotDisplay/pullDots.php(8): mysqli->__construct('localhost', 'willeans_dotDis...', ')%_1RKiMsfKu', 'willeans_dotDis...')
+#1 {main}
+  thrown in /home4/willeans/public_html/dotDisplay/pullDots.php on line 8
+[20-Feb-2023 23:14:43 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: Too many connections in /home4/willeans/public_html/dotDisplay/pullDots.php:8
+Stack trace:
+#0 /home4/willeans/public_html/dotDisplay/pullDots.php(8): mysqli->__construct('localhost', 'willeans_dotDis...', ')%_1RKiMsfKu', 'willeans_dotDis...')
+#1 {main}
+  thrown in /home4/willeans/public_html/dotDisplay/pullDots.php on line 8
+[20-Feb-2023 23:15:05 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: Too many connections in /home4/willeans/public_html/dotDisplay/pullDots.php:8
+Stack trace:
+#0 /home4/willeans/public_html/dotDisplay/pullDots.php(8): mysqli->__construct('localhost', 'willeans_dotDis...', ')%_1RKiMsfKu', 'willeans_dotDis...')
+#1 {main}
+  thrown in /home4/willeans/public_html/dotDisplay/pullDots.php on line 8
+[20-Feb-2023 23:15:16 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: Too many connections in /home4/willeans/public_html/dotDisplay/pullDots.php:8
+Stack trace:
+#0 /home4/willeans/public_html/dotDisplay/pullDots.php(8): mysqli->__construct('localhost', 'willeans_dotDis...', ')%_1RKiMsfKu', 'willeans_dotDis...')
+#1 {main}
+  thrown in /home4/willeans/public_html/dotDisplay/pullDots.php on line 8
+[20-Feb-2023 23:24:43 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: Too many connections in /home4/willeans/public_html/dotDisplay/pullDots.php:8
+Stack trace:
+#0 /home4/willeans/public_html/dotDisplay/pullDots.php(8): mysqli->__construct('localhost', 'willeans_dotDis...', ')%_1RKiMsfKu', 'willeans_dotDis...')
+#1 {main}
+  thrown in /home4/willeans/public_html/dotDisplay/pullDots.php on line 8
+[21-Feb-2023 10:47:24 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: Too many connections in /home4/willeans/public_html/dotDisplay/pullDots.php:8
+Stack trace:
+#0 /home4/willeans/public_html/dotDisplay/pullDots.php(8): mysqli->__construct('localhost', 'willeans_dotDis...', ')%_1RKiMsfKu', 'willeans_dotDis...')
+#1 {main}
+  thrown in /home4/willeans/public_html/dotDisplay/pullDots.php on line 8
+[21-Feb-2023 11:00:29 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: Too many connections in /home4/willeans/public_html/dotDisplay/pullDots.php:8
+Stack trace:
+#0 /home4/willeans/public_html/dotDisplay/pullDots.php(8): mysqli->__construct('localhost', 'willeans_dotDis...', ')%_1RKiMsfKu', 'willeans_dotDis...')
+#1 {main}
+  thrown in /home4/willeans/public_html/dotDisplay/pullDots.php on line 8
+[21-Feb-2023 11:03:04 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: Too many connections in /home4/willeans/public_html/dotDisplay/pullDots.php:8
+Stack trace:
+#0 /home4/willeans/public_html/dotDisplay/pullDots.php(8): mysqli->__construct('localhost', 'willeans_dotDis...', ')%_1RKiMsfKu', 'willeans_dotDis...')
+#1 {main}
+  thrown in /home4/willeans/public_html/dotDisplay/pullDots.php on line 8
+[21-Feb-2023 11:46:14 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: MySQL server has gone away in /home4/willeans/public_html/dotDisplay/pullDots.php:8
+Stack trace:
+#0 /home4/willeans/public_html/dotDisplay/pullDots.php(8): mysqli->__construct('localhost', 'willeans_dotDis...', ')%_1RKiMsfKu', 'willeans_dotDis...')
+#1 {main}
+  thrown in /home4/willeans/public_html/dotDisplay/pullDots.php on line 8

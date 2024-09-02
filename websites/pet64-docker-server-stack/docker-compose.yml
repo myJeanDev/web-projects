@@ -1,0 +1,25 @@
+version: '3' # docker version
+services:
+  www:
+    build: .
+    volumes: 
+      - "./:/var/www/html" # sync project dir with container dir
+    ports:
+      - 80:80
+      - 443:443 # for ssl traffic
+  db:
+    image: mysql:latest
+    environment:
+      - MYSQL_DATABASE=willeans_dotDisplay
+      - MYSQL_USER=willeans_dotDisplay
+      - MYSQL_PASSWORD=Kf@LUhD!XSP=
+      - MYSQL_ALLOW_EMPTY_PASSWORD=1
+    volumes:
+      - "./db:/docker-entrypoint-initdb.d" # sync persistent SQL files with container
+  phpmyadmin:
+    image: phpmyadmin/phpmyadmin
+    ports:
+      - 8001:80
+    environment:
+      - PMA_HOST=db
+      - PMA_PORT=3306
